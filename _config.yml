@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: ewolff.com
 tagline: Eberhard Wolff's Homepage
+
+author:
+  name: Eberhard Wolff
+  url: http://ewolff.com 
