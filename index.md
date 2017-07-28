@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Eberhard Wolff
 
-You can use the [editor on GitHub](https://github.com/ewolff/ewolff.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fellow at innoQ. Software Architecture. Technology. Learning every day.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work
 
-### Markdown
+Fellow att [innoQ](http://innoq.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Books
 
-```markdown
-Syntax highlighted code block
+* [Continuous Delivery Buch (Deutsch)](http://continuous-delivery-buch.de)
+* [Continuous Delivery Book (English)](http://continuous-delivery-book.com)
+* [Microservices Buch (Deutsch)](http://microservices-buch.de)
+* [Microservices Book (English)](http://microservices-book.com)
+* [Spring Buch (Deutsch)](http://spring-buch.de)
 
-# Header 1
-## Header 2
-### Header 3
+## Publications on the Web
 
-- Bulleted
-- List
+  * [Twitter](https://twitter.com/ewolff)
+  * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
+  * [YouTube](http://www.youtube.com/user/ewolff)
+  * [innoQ-Inhalte](https://www.innoq.com/de/timeline/?person=eberhard)
+  
+## Presentations
 
-1. Numbered
-2. List
+ * [Slideshare](http://www.slideshare.net/ewolff/presentations)
+ * [Speakerdeck](https://speakerdeck.com/ewolff)
+ * [Prezi](https://prezi.com/user/ewolff/)
 
-**Bold** and _Italic_ and `Code` text
+## Profiles
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ewolff/ewolff.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  * [LinkedIn](http://www.linkedin.com/pub/eberhard-wolff/0/501/ab8)
+  * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
+  * [Github](https://github.com/ewolff)
+  * [Google+](https://plus.google.com/+EberhardWolff)
+  * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
