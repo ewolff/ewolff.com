@@ -4,7 +4,7 @@ Fellow at innoQ. Software Architecture. Technology. Learning every day.
 
 ## Work
 
-Fellow att [innoQ](http://innoq.com)
+Fellow at [innoQ](http://innoq.com)
 
 ## Books
 
