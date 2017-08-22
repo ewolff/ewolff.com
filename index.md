@@ -34,3 +34,5 @@ Fellow at [innoQ](http://innoq.com)
   * [Github](https://github.com/ewolff)
   * [Google+](https://plus.google.com/+EberhardWolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
+
+I have a couple of [microservices-demos](microservices-demos.html) on Github.
