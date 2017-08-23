@@ -1,3 +1,7 @@
+---
+titel: ewolff.com
+---
+
 # Eberhard Wolff
 
 Fellow at innoQ. Software Architecture. Technology. Learning every day.

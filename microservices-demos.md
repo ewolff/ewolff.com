@@ -1,3 +1,7 @@
+---
+title: "Microservices Demos"
+---
+
 # Microservices Demos
 
 ## Synchronous Communication
