@@ -1,5 +1,5 @@
 ---
-titel: ewolff.com
+title: ewolff.com
 ---
 
 # Eberhard Wolff
