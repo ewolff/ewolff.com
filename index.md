@@ -16,6 +16,8 @@ Fellow at [innoQ](http://innoq.com)
 * [Continuous Delivery Book (English)](http://continuous-delivery-book.com)
 * [Microservices Buch (Deutsch)](http://microservices-buch.de)
 * [Microservices Book (English)](http://microservices-book.com)
+* [KOSTENLOSER Microservices Überblick](http://microservices-buch.de/ueberblick.html)
+* [FREE Microservices Primer](http://microservices-book.com/primer.html)
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 
 ## Publications on the Web
