@@ -6,6 +6,8 @@ title: "Microservices Demos"
 
 ## Synchronous Communication
 
+There are several options for synchronous communication between microservices:
+
 * The [Consul demo](https://github.com/ewolff/microservice-consul) is written
   in Java with Spring Cloud / Boot. The demo uses Consul for service discovery,
   Apache httpd for routing, Hystrix for resilience and Ribbon for load
@@ -38,6 +40,9 @@ title: "Microservices Demos"
 
 ## Asynchronous Communication
 
+Asynchronous communication makes it easier to deal with unreliable
+networks and services:
+
 * [Kafka](https://github.com/ewolff/microservice-kafka) uses Kafka for
 communication. Kafka is a message-oriented middleware and allows
 systems to send messages to one another.
@@ -47,6 +52,8 @@ systems to send messages to one another.
 
 ## UI Integration
 
+UI integration provides very loose coupling:
+
 * [ESI](https://github.com/ewolff/SCS-ESI) shows how Edge Side
 Includes (ESI) can be used to integrate the UI of microservices. On
 microservice is written in Java with Spring Boot, the other one with
@@ -54,3 +61,6 @@ Go. The Go microservices is built using multi stage Docker containers.
 
 * [jQuery](https://github.com/ewolff/SCS-jQuery) shows how jQuery can
   be used to integrate the UI of microservices.
+
+The website for each demo explains how the demo can be built and
+started.
