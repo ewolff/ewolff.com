@@ -6,7 +6,7 @@ title: "Microservices Demos"
 
 ## Synchronous Communication
 
-* [Consul-Demo](https://github.com/ewolff/microservice-consul) written
+* The [Consul demo](https://github.com/ewolff/microservice-consul) is written
   in Java with Spring Cloud / Boot. The demo uses Consul for service discovery,
   Apache httpd for routing, Hystrix for resilience and Ribbon for load
   balancing. It also provides a
@@ -16,27 +16,31 @@ title: "Microservices Demos"
   [ELK stack](https://github.com/ewolff/microservice-consul#elastic-stack)
   for log analysis.
 
-
-* [Netflix-Demo](https://github.com/ewolff/microservice) written
-  in Java with Spring Cloud / Boot. Uses Netflix Eureka for service discovery,
+* The [Netflix demo](https://github.com/ewolff/microservice) uses the
+  Netflix stack. The demo is written
+  in Java with Spring Cloud / Boot. It uses Netflix Eureka for service discovery,
   Netflix Zuul for routing, Hystrix for resilience and Ribbon for load
   balancing.
 
-* [Kubernetes](https://github.com/ewolff/microservice-kubernetes)
-  written in Java with Spring Cloud / Boot. Uses Kubernetes for
+* Kubernetes is a system to run Docker containers in a cluster. The
+  [Kubernetes demo](https://github.com/ewolff/microservice-kubernetes)
+  is written in Java with Spring Cloud / Boot. It uses Kubernetes for
   service discovery, routing and load balancing.  The demo also uses
   Hystrix for resilience. The code does not depend on Kubernetes.
 
-* [Cloud Foundry](https://github.com/ewolff/microservice-cloudfoundry)
-  written in Java with Spring Cloud / Boot. Uses Cloud Foundry for
+* Cloud Foundry is a PaaS. It provides an application with an
+  environment to run in. The
+  [Cloud Foundry demo](https://github.com/ewolff/microservice-cloudfoundry)
+  is written in Java with Spring Cloud / Boot. Uses Cloud Foundry for
   deployment, service discovery, routing and load balancing.  The demo
-  also uses Hystrix for resilience. The code does not depend on
-  Cloud Foundry.
+  also uses Hystrix for resilience. The code does not depend on Cloud
+  Foundry.
 
 ## Asynchronous Communication
 
 * [Kafka](https://github.com/ewolff/microservice-kafka) uses Kafka for
-communication.
+communication. Kafka is a message-oriented middleware and allows
+systems to send messages to one another.
 
 * [Atom](https://github.com/ewolff/microservice-atom) uses REST / HTTP
   for asynchronous communication with the Atom format.
