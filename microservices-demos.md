@@ -13,9 +13,11 @@ written in Java with Spring Cloud / Boot. The demo uses Consul for
 service discovery, Apache httpd for routing, Hystrix for resilience
 and Ribbon for load balancing. It also provides a
 [Prometheus installation](https://github.com/ewolff/microservice-consul#prometheus)
-for monitoring and an
+for monitoring, an
 [ELK stack](https://github.com/ewolff/microservice-consul#elastic-stack)
-for log analysis.
+for log analysis, and
+[Zipkin](https://github.com/ewolff/microservice-consul#zipkin) to
+trace calls between microservices.
   - [How to run](https://github.com/ewolff/microservice-consul/blob/master/HOW-TO-RUN.md)
   - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-consul/blob/master/WIE-LAUFEN.md)
 
