@@ -79,7 +79,7 @@ Go. The Go microservices is built using multi stage Docker containers.
   - [How to run](https://github.com/ewolff/SCS-jQuery/blob/master/HOW-TO-RUN.md)
   - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/SCS-jQuery/blob/master/WIE-LAUFEN.md)
 
-* [Crimson Assurance](https://github.com/ewolff/crimson-insurance-demo)
+* [Crimson Assurance](https://github.com/ewolff/crimson-assurance-demo)
   is a more complex demo for a frontend integration.
   - [How to run](https://github.com/ewolff/crimson-insurance-demo/blob/master/HOW-TO-RUN.md)
   - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/crimson-insurance-demo/blob/master/WIE-LAUFEN.md)
