@@ -20,6 +20,7 @@ Fellow at [innoQ](http://innoq.com)
 * [FREE Microservices Primer](http://microservices-book.com/primer.html)
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
+* Upcoming: Microservices Praxisbuch
 
 ## Publications on the Web
 
