@@ -21,6 +21,14 @@ trace calls between microservices.
   - [How to run](https://github.com/ewolff/microservice-consul/blob/master/HOW-TO-RUN.md)
   - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-consul/blob/master/WIE-LAUFEN.md)
 
+* The [Consul DNS demo](https://github.com/ewolff/microservice-consul) is
+written in Java with Spring Cloud / Boot. The demo uses Consul for
+service discovery but with its DNS interface and automated
+registration using Registrator. Apache httpd is used for routing.
+  - [How to run](https://github.com/ewolff/microservice-consul-dns/blob/master/HOW-TO-RUN.md)
+  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-consul-dns/blob/master/WIE-LAUFEN.md)
+
+
 * The [Netflix demo](https://github.com/ewolff/microservice) uses the
   Netflix stack. The demo is written
   in Java with Spring Cloud / Boot. It uses Netflix Eureka for service discovery,
