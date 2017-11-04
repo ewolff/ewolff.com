@@ -4,7 +4,7 @@ title: ewolff.com
 
 # Eberhard Wolff
 
-Fellow at innoQ. Software Architecture. Technology. Learning every day.
+Software Architecture. Technology. Learning every day.
 
 ## Work
 
