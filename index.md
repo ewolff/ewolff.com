@@ -22,12 +22,6 @@ Fellow at [innoQ](http://innoq.com)
 * [Microservices Book (English)](http://microservices-book.com)
 * [KOSTENLOSER Microservices Überblick](http://microservices-buch.de/ueberblick.html)
 * [FREE Microservices Primer](http://microservices-book.com/primer.html)
-<<<<<<< HEAD
-
-=======
-* [Microservices Praxisbuch (erscheint voraussichtlich März 2018, Deutsch)](http://microservices-praxisbuch.de)
-* [KOSTENLOSE Microservices Rezepte](http://microservices-praxisbuch.de/rezepte.html)
->>>>>>> 9919338e917d06db81fe69e85d1237c8380e2e04
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
