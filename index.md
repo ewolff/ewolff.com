@@ -8,7 +8,7 @@ Software Architecture. Technology. Learning every day.
 
 ## Work
 
-Fellow at [innoQ](http://innoq.com)
+Fellow at [INNOQ](http://innoq.com)
 
 ## Books
 
