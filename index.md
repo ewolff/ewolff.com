@@ -14,14 +14,19 @@ Fellow at [INNOQ](http://innoq.com)
 
 * [Continuous Delivery Buch (Deutsch)](http://continuous-delivery-buch.de)
 * [Continuous Delivery Book (English)](http://continuous-delivery-book.com)
-* [Microservices Praxisbuch](http://microservices-praxisbuch.de)
-* [Microservices - A Practical Guide](http://practical-microservices.com/) 
-* [KOSTENLOSE Microservices Rezepte](http://microservices-praxisbuch.de/rezepte.html)
-* [FREE Microservices Recipes](http://practical-microservices.com/recipes.html)
+
+* [Microservices Praxisbuch (Deutsch)](http://microservices-praxisbuch.de)
+* [Microservices - A Practical Guide (English)](http://practical-microservices.com/) 
+
+* [KOSTENLOSE Microservices Rezepte (Deutsch](http://microservices-praxisbuch.de/rezepte.html)
+* [FREE Microservices Recipes (English)](http://practical-microservices.com/recipes.html)
+
 * [Microservices Buch (Deutsch)](http://microservices-buch.de)
 * [Microservices Book (English)](http://microservices-book.com)
-* [KOSTENLOSER Microservices Überblick](http://microservices-buch.de/ueberblick.html)
-* [FREE Microservices Primer](http://microservices-book.com/primer.html)
+
+* [KOSTENLOSER Microservices Überblick (Deutsch)](http://microservices-buch.de/ueberblick.html)
+* [FREE Microservices Primer (English)](http://microservices-book.com/primer.html)
+
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
