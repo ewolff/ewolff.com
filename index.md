@@ -18,7 +18,7 @@ Fellow at [INNOQ](http://innoq.com)
 * [Microservices Praxisbuch (Deutsch)](http://microservices-praxisbuch.de)
 * [Microservices - A Practical Guide (English)](http://practical-microservices.com/) 
 
-* [KOSTENLOSE Microservices Rezepte (Deutsch](http://microservices-praxisbuch.de/rezepte.html)
+* [KOSTENLOSE Microservices Rezepte (Deutsch)](http://microservices-praxisbuch.de/rezepte.html)
 * [FREE Microservices Recipes (English)](http://practical-microservices.com/recipes.html)
 
 * [Microservices Buch (Deutsch)](http://microservices-buch.de)
