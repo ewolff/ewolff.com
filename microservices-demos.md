@@ -21,7 +21,7 @@ trace calls between microservices.
   - [How to run](https://github.com/ewolff/microservice-consul/blob/master/HOW-TO-RUN.md)
   - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-consul/blob/master/WIE-LAUFEN.md)
 
-* The [Consul DNS demo](https://github.com/ewolff/microservice-consul) is
+* The [Consul DNS demo](https://github.com/ewolff/microservice-consul-dns) is
 written in Java with Spring Cloud / Boot. The demo uses Consul for
 service discovery but with its DNS interface and automated
 registration using Registrator. Apache httpd is used for routing.
