@@ -71,6 +71,13 @@ systems to send messages to one another.
   - [How to run](https://github.com/ewolff/microservice-atom/blob/master/HOW-TO-RUN.md)
   - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-atom/blob/master/WIE-LAUFEN.md)
 
+* [Istio](https://github.com/ewolff/microservice-istio) extends the
+  Atom example above to use the Istio service mesh. This supports
+  monitoring with Prometheus and Grafana, tracing with Jaeger, Logging
+  with Elasticsearch and Kibana, and also resilience with retries,
+  timeouts and circuit breaker.
+  - [How to run](https://github.com/ewolff/microservice-atom/blob/master/HOW-TO-RUN.md)
+
 ## UI Integration
 
 UI integration provides very loose coupling:
