@@ -76,7 +76,7 @@ systems to send messages to one another.
   monitoring with Prometheus and Grafana, tracing with Jaeger, Logging
   with Elasticsearch and Kibana, and also resilience with retries,
   timeouts and circuit breaker.
-  - [How to run](https://github.com/ewolff/microservice-atom/blob/master/HOW-TO-RUN.md)
+  - [How to run](https://github.com/ewolff/microservice-istio/blob/master/HOW-TO-RUN.md)
 
 ## UI Integration
 
