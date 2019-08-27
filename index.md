@@ -21,6 +21,8 @@ Fellow at [INNOQ](http://innoq.com)
 * [KOSTENLOSE Microservices Rezepte (Deutsch)](http://microservices-praxisbuch.de/rezepte.html)
 * [FREE Microservices Recipes (English)](http://practical-microservices.com/recipes.html)
 
+* [FREE Service Mesh Primer (English)](https://leanpub.com/service-mesh-primer)
+
 * [Microservices Buch (Deutsch)](http://microservices-buch.de)
 * [Microservices Book (English)](http://microservices-book.com)
 
