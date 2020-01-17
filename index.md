@@ -29,6 +29,10 @@ Fellow at [INNOQ](http://innoq.com)
 * [KOSTENLOSER Microservices Überblick (Deutsch)](http://microservices-buch.de/ueberblick.html)
 * [FREE Microservices Primer (English)](http://microservices-book.com/primer.html)
 
+* [Deutsche Übersetzung DDD-Referenz](https://ddd-referenz.de/) von Eirc Evans mit Michael Plöd und Christian Stettler
+
+* [Service Mesh Primer](https://leanpub.com/service-mesh-primer) mit Hanna Prinz
+
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
