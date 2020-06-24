@@ -2,14 +2,14 @@
 title: SoftwareArchitektur im Stream
 ---
 
-# SoftwaerArchitektur im Stream
+# SoftwareArchitektur im Stream
 
 Live-Diskussion zu Software-Architektur. Ich beantworte Eure
 Fragen.
 
 # Nächster Termin
 
-Freitag 2020-06-26 12:00
+Freitag 2020-06-26 12:00 CEST
 
 Thema: iSAQB und Zertifizierung für Software-Architekten
 
@@ -21,7 +21,7 @@ Thema: iSAQB und Zertifizierung für Software-Architekten
 
 # Fragen
 
-Gerne im Chat, per [Twitter](https://twitter.com/ewolff) oder anonym
+Gerne im Live-Chat, per [Twitter](https://twitter.com/ewolff) oder anonym
 hier:
 
 <iframe
