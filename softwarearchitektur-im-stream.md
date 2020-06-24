@@ -4,7 +4,7 @@ title: SoftwareArchitektur im Stream
 
 # SoftwaerArchitektur im Stream
 
-Live-Diskussion zu Software-Architektur. Ich orientiere mich an Euren
+Live-Diskussion zu Software-Architektur. Ich beantworte Eure
 Fragen.
 
 # Nächster Termin
