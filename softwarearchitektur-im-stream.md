@@ -15,17 +15,17 @@ Thema: iSAQB und Zertifizierung für Software-Architekten
 
 # Zuschauen
 
-https://www.youtube.com/user/ewolff/
+[https://www.youtube.com/user/ewolff/](https://www.youtube.com/user/ewolff/)
 
-https://www.twitch.tv/ebrwolff
+[https://www.twitch.tv/ebrwolff](https://www.youtube.com/user/ewolff/)
 
 # Fragen
 
-Gerne im Chat, per Twitter https://twitter.com/ewolff oder anonym
+Gerne im Chat, per [Twitter](https://twitter.com/ewolff) oder anonym
 hier:
 
 <iframe
 src="https://docs.google.com/forms/d/e/1FAIpQLSf0xIZkNG_wRJ0IiobVcO3Z-q3dQMcwYTww0wgiWCupZCKM4A/viewform?embedded=true"
-width="640" height="375" frameborder="0" marginheight="0"
+width="640" height="450" frameborder="0" marginheight="0"
 marginwidth="0">Loading…</iframe>
 
