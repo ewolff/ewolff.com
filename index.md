@@ -34,6 +34,10 @@ Fellow at [INNOQ](http://innoq.com)
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
+## Stream
+
+[SoftwareArchitektur im Stream](softwarearchitektur-im-stream.html)
+
 ## Publications on the Web
 
   * [Twitter](https://twitter.com/ewolff)
