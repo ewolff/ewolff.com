@@ -17,7 +17,7 @@ Thema: iSAQB und Zertifizierung für Software-Architekten
 
 [https://www.youtube.com/user/ewolff/](https://www.youtube.com/user/ewolff/)
 
-[https://www.twitch.tv/ebrwolff](https://www.youtube.com/user/ewolff/)
+[https://www.twitch.tv/ebrwolff](https://www.twitch.tv/ebrwolff)
 
 # Fragen
 
