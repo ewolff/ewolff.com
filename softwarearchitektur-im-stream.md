@@ -9,9 +9,9 @@ Fragen.
 
 # Nächster Termin
 
-Freitag 2020-06-26 12:00 CEST [YouTube](https://www.youtube.com/watch?v=aEN-BQXTcx4) [Twitch](https://www.twitch.tv/ebrwolff)
+Donnerstag 2020-07-02 17:00 CEST [YouTube](https://www.youtube.com/watch?v=aEN-BQXTcx4) [Twitch](https://www.twitch.tv/ebrwolff)
 
-Thema: iSAQB und Zertifizierung für Software-Architekten
+Thema: Fachliche Architektur - warum und wie?
 
 # Zuschauen
 
