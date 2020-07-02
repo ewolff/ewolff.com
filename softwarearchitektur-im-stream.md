@@ -9,7 +9,7 @@ Fragen.
 
 # Nächster Termin
 
-Donnerstag 2020-07-02 17:00 CEST [YouTube](https://www.youtube.com/watch?v=aEN-BQXTcx4) [Twitch](https://www.twitch.tv/ebrwolff)
+Donnerstag 2020-07-02 17:00 CEST [YouTube](https://www.youtube.com/user/ewolff/) [Twitch](https://www.twitch.tv/ebrwolff)
 
 Thema: Fachliche Architektur - warum und wie?
 
