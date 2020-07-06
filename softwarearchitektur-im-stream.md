@@ -9,9 +9,9 @@ Fragen.
 
 # Nächster Termin
 
-Donnerstag 2020-07-02 17:00 CEST [YouTube](https://www.youtube.com/watch?v=aEN-BQXTcx4) [Twitch](https://www.twitch.tv/ebrwolff)
+Freitag 2020-07-10 12:00 CEST [YouTube](https://www.youtube.com/watch?v=aEN-BQXTcx4) [Twitch](https://www.twitch.tv/ebrwolff)
 
-Thema: Fachliche Architektur - warum und wie?
+Thema: Oliver Drotbohm zu "Module in Monolithen"
 
 # Zuschauen
 
