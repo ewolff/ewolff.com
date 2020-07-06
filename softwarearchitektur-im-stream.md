@@ -9,7 +9,7 @@ Fragen.
 
 # Nächster Termin
 
-Freitag 2020-07-10 12:00 CEST [YouTube](https://www.youtube.com/watch?v=aEN-BQXTcx4) [Twitch](https://www.twitch.tv/ebrwolff)
+Freitag 2020-07-10 12:00 CEST [YouTube](https://www.youtube.com/user/ewolff/) [Twitch](https://www.twitch.tv/ebrwolff)
 
 Thema: Oliver Drotbohm zu "Module in Monolithen"
 
