@@ -9,9 +9,9 @@ Fragen.
 
 # Nächster Termin
 
-Freitag 2020-07-10 12:00 CEST [YouTube](https://www.youtube.com/user/ewolff/) [Twitch](https://www.twitch.tv/ebrwolff)
+Dienstag 2020-07-14 12:00 CEST [YouTube](https://www.youtube.com/user/ewolff/) [Twitch](https://www.twitch.tv/ebrwolff)
 
-Thema: Oliver Drotbohm zu "Module in Monolithen"
+Thema: Eric Evans Paper ["Getting Started with DDD When Surrouned by Legacy Systems"](https://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
 
 # Zuschauen
 
