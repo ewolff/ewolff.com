@@ -36,7 +36,7 @@ Fellow at [INNOQ](http://innoq.com)
 
 ## Stream
 
-[SoftwareArchitektur im Stream](softwarearchitektur-im-stream.html)
+[SoftwareArchitektur im Stream](https://software-architektur.tv)
 
 ## Publications on the Web
 
