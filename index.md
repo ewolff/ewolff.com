@@ -43,7 +43,7 @@ Fellow at [INNOQ](http://innoq.com)
   * [Twitter](https://twitter.com/ewolff)
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
   * [YouTube](http://www.youtube.com/user/ewolff)
-  * [innoQ-Inhalte](https://www.innoq.com/de/timeline/?person=eberhard)
+  * [INNOQ-Inhalte](https://www.innoq.com/de/staff/eberhard-wolff/)
   
 ## Presentations
 
