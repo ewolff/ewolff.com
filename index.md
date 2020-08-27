@@ -56,7 +56,6 @@ Fellow at [INNOQ](http://innoq.com)
   * [LinkedIn](http://www.linkedin.com/pub/eberhard-wolff/0/501/ab8)
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
   * [Github](https://github.com/ewolff)
-  * [Google+](https://plus.google.com/+EberhardWolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
 
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
