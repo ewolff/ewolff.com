@@ -7,8 +7,8 @@ the website is German citizen, the German law applies for the entire
 website. Therefore, the contact and imprint are presented in German.
 
 Angaben gemäß §5 TMG: ewolff.com ist eine private Publikation von
-Eberhard Wolff, Leobschützer Str. 22, 13125 Berlin; EMail:
-eberhard.wolff At @ gmail Punkt com.
+Eberhard Wolff, Karcherstr. 22, 65677 Berlin; EMail:
+eberhard.wolff At @ posteo Punkt net.
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten
 Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
