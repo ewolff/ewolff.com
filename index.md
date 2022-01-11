@@ -41,7 +41,7 @@ Fellow at [INNOQ](http://innoq.com)
 ## Publications on the Web
 
   * [Twitter](https://twitter.com/ewolff)
-  * [Mastodon](https://mastodon.social/web/@ewolff)
+  * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
   * [INNOQ-Inhalte](https://www.innoq.com/de/staff/eberhard-wolff/)
   
