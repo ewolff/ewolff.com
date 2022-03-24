@@ -56,3 +56,5 @@ Fellow at [INNOQ](http://innoq.com)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
 
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
+
+[Speaking Rules](speaking-rules.html)
