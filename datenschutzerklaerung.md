@@ -39,3 +39,11 @@ Ihrem Computer genutzt.
 Weitere Informationen zu Google Web Fonts finden Sie in de
 [Developer FAQ](https://developers.google.com/fonts/faq) und in der
 [Datenschutzerklärung von Google](https://developers.google.com/fonts/faq).
+
+# Nutzung von Google Forms
+
+Für Umfragen setzt diese Seite [Google
+Forms](https://google.com/forms) ein. Das Unternehmen Google LLC
+verpflichtet sich, einen hohen Datenschutzstandard nach DS-GVO zu
+wahren. Die Datenschutzhinweise von Google finden Sie
+[hier](https://policies.google.com/privacy?hl=de).

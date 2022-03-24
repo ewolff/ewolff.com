@@ -34,25 +34,32 @@ Fellow at [INNOQ](http://innoq.com)
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
+## Stream
+
+* [SoftwareArchitektur im Stream](https://software-architektur.tv)
+
 ## Publications on the Web
 
   * [Twitter](https://twitter.com/ewolff)
+  * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
-  * [YouTube](http://www.youtube.com/user/ewolff)
-  * [innoQ-Inhalte](https://www.innoq.com/de/timeline/?person=eberhard)
+  * [INNOQ-Inhalte](https://www.innoq.com/de/staff/eberhard-wolff/)
   
 ## Presentations
 
  * [Slideshare](http://www.slideshare.net/ewolff/presentations)
  * [Speakerdeck](https://speakerdeck.com/ewolff)
  * [Prezi](https://prezi.com/user/ewolff/)
+ * [Playlist: English Talks](https://www.youtube.com/playlist?list=PLeXlULyOtEndP47qFtSoVevPoZ2D1h55X)
+ * [Playlist: German Talks](https://www.youtube.com/playlist?list=PLeXlULyOtEnc90Ix0WwT1YPPnQKeGy4CP)
+ * [Playlist: English Interviews & Discussions](https://www.youtube.com/playlist?list=PLeXlULyOtEneFtbnf0bTy5aY7DSJ6PsGq)
+ * [Playlist: German Interviews & Discussions](https://www.youtube.com/playlist?list=PLeXlULyOtEnfASazcsQz9iGPkuLdbLdl3)
 
 ## Profiles
 
   * [LinkedIn](http://www.linkedin.com/pub/eberhard-wolff/0/501/ab8)
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
   * [Github](https://github.com/ewolff)
-  * [Google+](https://plus.google.com/+EberhardWolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
 
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
