@@ -27,6 +27,13 @@ rules is rather small.
     must be economically viable I don't see why we want to limit
     access to this knowledge any further. Actually I wouldn't consider
     such events "public" but rather "closed".
+  - It is also **fine to sell speaker-slots**. **Rationale:** Those
+    slots might be part of the economic model of the conference. They
+    might e.g. help product vendors to advertise their
+    products. Organizers believe that these talks do not provide a lot
+    of value - otherwise the slots would not be paid-for. My goal is
+    to make sure that speakers who provide value to the organizers in
+    their own judgement are treated fairly.
 	
 - **I am more than happy to talk at any kind closed event that e.g. a
   company does e.g. for customers, employees etc.** Such engagements
