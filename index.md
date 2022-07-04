@@ -37,11 +37,16 @@ Fellow at [INNOQ](http://innoq.com)
 * [Spring Buch (Deutsch)](http://spring-buch.de)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
-## Stream
+## Video
 
 * [SoftwareArchitektur im Stream](https://software-architektur.tv)
+* [YouTube
+  Channel](https://www.youtube.com/channel/UCaX9XGZHHh-D3xSqExT0F5Q)
+* [Twitch](https://www.twitch.tv/ebrwolff)
+* [PeerTube](https://tube.tchncs.de/a/eberhard_wolff/video-channels)
 
 ## Publications on the Web
+
 
   * [Twitter](https://twitter.com/ewolff)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
