@@ -29,6 +29,9 @@ Fellow at [INNOQ](http://innoq.com)
 * [KOSTENLOSER Microservices Überblick (Deutsch)](http://microservices-buch.de/ueberblick.html)
 * [FREE Microservices Primer (English)](http://microservices-book.com/primer.html)
 
+* [Sketchnotes zu SoftwareArchitektur im
+  Stream](https://software-architektur.tv/sketchnote-buch) mit Lisa Moritz
+
 * [Deutsche Übersetzung DDD-Referenz](https://ddd-referenz.de/) von Eric Evans mit Michael Plöd und Christian Stettler
 
 * [Spring Buch (Deutsch)](http://spring-buch.de)
