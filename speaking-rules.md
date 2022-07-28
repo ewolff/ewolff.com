@@ -26,7 +26,7 @@ rules is rather small.
     certificate. **Rationale:** While I totally understand that events
     must be economically viable I don't see why we want to limit
     access to this knowledge any further. Actually I wouldn't consider
-    such events "public" but rather "closed".
+    such events "public" but rather "closed" (see below).
   - It is also **fine to sell speaker-slots**. **Rationale:** Those
     slots might be part of the economic model of the conference. They
     might e.g. help product vendors to advertise their
