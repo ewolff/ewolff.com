@@ -25,11 +25,3 @@ Diese Website wird auf Servern von
 [Github Inc.](https://www.github.com/), 88 Colin P Kelly Jr St, San
 Francisco, CA 94107, USA gehostet. Beachten Sie daher auch die
 [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-statement/).
-
-# Nutzung von Google Forms
-
-Für Umfragen setzt diese Seite [Google
-Forms](https://google.com/forms) ein. Das Unternehmen Google LLC
-verpflichtet sich, einen hohen Datenschutzstandard nach DS-GVO zu
-wahren. Die Datenschutzhinweise von Google finden Sie
-[hier](https://policies.google.com/privacy?hl=de).
