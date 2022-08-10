@@ -34,7 +34,7 @@ Fellow at [INNOQ](http://innoq.com)
 
 * [Deutsche Übersetzung DDD-Referenz](https://ddd-referenz.de/) von Eric Evans mit Michael Plöd und Christian Stettler
 
-* [Spring Buch (Deutsch)](http://spring-buch.de)
+* [Spring Buch (Deutsch)](https://www.goodreads.com/book/show/13056315-spring-3)
 * [Die Aphorismen des Eberhard Wolff](https://entwickler.de/press/buecher/die-aphorismen-des-eberhard-wolff-579813305.html)
 
 ## Video
