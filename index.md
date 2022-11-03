@@ -41,7 +41,7 @@ Fellow at [INNOQ](http://innoq.com)
 
 * [SoftwareArchitektur im Stream](https://software-architektur.tv)
 * [YouTube
-  Channel](https://www.youtube.com/channel/UCaX9XGZHHh-D3xSqExT0F5Q)
+  Channel](https://youtube.com/@EberhardWolff)
 * [Twitch](https://www.twitch.tv/ebrwolff)
 * [PeerTube](https://tube.tchncs.de/a/eberhard_wolff/video-channels)
 
