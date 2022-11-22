@@ -33,7 +33,7 @@ Hinweis dankbar. Ich werde den Link dann entfernen.
 Aus diesem Impressum geht ganz klar der Sitz des Herausgebers der
 Website und die Tatsache, daß es eine private Publikation ist hervor.
 Bitte akzeptieren Sie daher als Gerichtsstand für alle Streitigkeiten
-rund um dieses Blog immer Berlin.
+rund um diese Website immer Kaiserslautern.
 
 Ich übernehme keine Gewähr für Aktualität, Korrektheit,
 Vollständigkeit oder Qualität der bereitgestellten Informationen.
