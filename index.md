@@ -65,7 +65,7 @@ Fellow at [INNOQ](http://innoq.com)
 
 ## Profiles
 
-  * [LinkedIn](http://www.linkedin.com/pub/eberhard-wolff/0/501/ab8)
+  * [LinkedIn](https://www.linkedin.com/in/eberhardwolff/)
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
   * [Github](https://github.com/ewolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
