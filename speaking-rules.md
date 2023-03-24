@@ -1,5 +1,5 @@
 ---
-title: Rules for Speaker Engaments
+title: Rules for Speaker Engagements
 ---
 
 Generally I enjoy speaking and doing talks. I usually feel honored by
