@@ -69,6 +69,7 @@ Fellow at [INNOQ](http://innoq.com)
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
   * [Github](https://github.com/ewolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
+  * [Sessionize](https://sessionize.com/EberhardWolff/)
 
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
 
