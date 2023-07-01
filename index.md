@@ -8,7 +8,7 @@ Software Architecture. Technology. Learning every day.
 
 ## Work
 
-Fellow at [INNOQ](http://innoq.com)
+Head of Architecture at [SWAGLab](https://swaglab.rocks/)
 
 ## Books
 
@@ -51,7 +51,6 @@ Fellow at [INNOQ](http://innoq.com)
   * [Twitter](https://twitter.com/ewolff)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
-  * [INNOQ-Inhalte](https://www.innoq.com/de/staff/eberhard-wolff/)
   
 ## Presentations
 
