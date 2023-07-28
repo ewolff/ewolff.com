@@ -10,6 +10,15 @@ Software Architecture. Technology. Learning every day.
 
 Head of Architecture at [SWAGLab](https://swaglab.rocks/)
 
+## Trainings
+
+* [Trainer Profile at
+  Socreatory](https://www.socreatory.com/de/trainers/eberhard-wolff)
+* [Softwarearchitektur-Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart)
+* [Microservices: Architektur, Implementierung und
+  Produktion](https://www.socreatory.com/de/trainings/microservices)
+* [Advanced Microservices](https://www.socreatory.com/de/trainings/advancedms)
+
 ## Books
 
 * [Continuous Delivery Buch (Deutsch)](http://continuous-delivery-buch.de)
@@ -69,7 +78,8 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
   * [Github](https://github.com/ewolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
   * [Sessionize](https://sessionize.com/EberhardWolff/)
-
+  * [Socreatoy] (https://www.socreatory.com/de/trainers/eberhard-wolff)
+  
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
 
 [Speaking Rules](speaking-rules.html)
