@@ -78,7 +78,7 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
   * [Github](https://github.com/ewolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
   * [Sessionize](https://sessionize.com/EberhardWolff/)
-  * [Socreatoy] (https://www.socreatory.com/de/trainers/eberhard-wolff)
+  * [Socreatoy](https://www.socreatory.com/de/trainers/eberhard-wolff)
   
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
 
