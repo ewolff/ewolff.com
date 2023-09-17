@@ -54,9 +54,14 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
 * [Twitch](https://www.twitch.tv/ebrwolff)
 * [PeerTube](https://tube.tchncs.de/a/eberhard_wolff/video-channels)
 
-## Publications on the Web
+## Social Media and Profile on the Web
 
-
+  * [LinkedIn](https://www.linkedin.com/in/eberhardwolff/)
+  * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
+  * [Github](https://github.com/ewolff)
+  * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
+  * [Sessionize](https://sessionize.com/EberhardWolff/)
+  * [Socreatoy](https://www.socreatory.com/de/trainers/eberhard-wolff)
   * [Twitter](https://twitter.com/ewolff)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
@@ -72,13 +77,6 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
  * [Playlist: German Interviews & Discussions](https://www.youtube.com/playlist?list=PLeXlULyOtEnfASazcsQz9iGPkuLdbLdl3)
 
 ## Profiles
-
-  * [LinkedIn](https://www.linkedin.com/in/eberhardwolff/)
-  * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
-  * [Github](https://github.com/ewolff)
-  * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
-  * [Sessionize](https://sessionize.com/EberhardWolff/)
-  * [Socreatoy](https://www.socreatory.com/de/trainers/eberhard-wolff)
   
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
 
