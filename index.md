@@ -64,6 +64,7 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
   * [Socreatoy](https://www.socreatory.com/de/trainers/eberhard-wolff)
   * [Twitter](https://twitter.com/ewolff)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
+  * [BlueSky](https://bsky.app/profile/ewolff.bsky.social)
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
   
 ## Presentations
