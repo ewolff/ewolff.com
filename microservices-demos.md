@@ -78,6 +78,12 @@ systems to send messages to one another.
   timeouts and circuit breaker.
   - [How to run](https://github.com/ewolff/microservice-istio/blob/master/HOW-TO-RUN.md)
 
+* [Dapr](https://github.com/ewolff/microservice-dapr) extends the Atom
+  example above to use Dapr. This supports monitoring with Prometheus
+  and Grafana, tracing with Zipkin, and also resilience with retries
+  and circuit breaker.
+  - [How to run](https://github.com/ewolff/microservice-dapr/blob/master/HOW-TO-RUN.md)
+
 ## UI Integration
 
 UI integration provides very loose coupling:
