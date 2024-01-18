@@ -38,16 +38,4 @@ Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
   * [BlueSky](https://bsky.app/profile/ewolff.com)
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
   
-## Präsentationen
-
- * [Slideshare](http://www.slideshare.net/ewolff/presentations)
- * [Speakerdeck](https://speakerdeck.com/ewolff)
- * [Prezi](https://prezi.com/user/ewolff/)
- * [Playlist: Englische Vorträge](https://www.youtube.com/playlist?list=PLeXlULyOtEndP47qFtSoVevPoZ2D1h55X)
- * [Playlist: Deutsche Vorträge](https://www.youtube.com/playlist?list=PLeXlULyOtEnc90Ix0WwT1YPPnQKeGy4CP)
- * [Playlist: Englische Interviews & Diskussionen](https://www.youtube.com/playlist?list=PLeXlULyOtEneFtbnf0bTy5aY7DSJ6PsGq)
- * [Playlist: Deutsche Interviews & Diskussionen](https://www.youtube.com/playlist?list=PLeXlULyOtEnfASazcsQz9iGPkuLdbLdl3)
-
 Ich habe einige [Microservices-Demos](microservices-demos-de.html) bei Github.
-
-[Regeln für Vorträge](speaking-rules.html)
