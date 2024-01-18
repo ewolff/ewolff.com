@@ -1,5 +1,6 @@
 ---
-title: Rules for Speaker Engagements
+title: Regeln für Vorträge
+layout: de
 ---
 
 Generell spreche ich gerne auf Konferenzen und halte Vorträge. Ich

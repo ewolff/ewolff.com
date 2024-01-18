@@ -1,5 +1,6 @@
 ---
 title: "Microservices Demos"
+layout: de
 ---
 
 # Microservices Demos

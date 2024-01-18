@@ -1,5 +1,6 @@
 ---
 title: ewolff.com Datenschutzerklärung
+layout: de
 ---
 
 ewolff.com nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir
