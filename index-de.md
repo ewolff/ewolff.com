@@ -3,6 +3,12 @@ title: Eberhard Wolff
 layout: de
 ---
 
+<center>
+<img
+	src="images/EberhardWolff.jpg"
+	alt="Porträt von Eberhard Wolff"/>
+</center>
+
 Software Architecture. Technology. Learning every day.
 
 ## Arbeit

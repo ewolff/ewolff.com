@@ -2,6 +2,12 @@
 title: Eberhard Wolff
 ---
 
+<center>
+<img
+	src="images/EberhardWolff.jpg"
+	alt="Portrait of Eberhard Wolff"/>
+</center>
+
 Software Architecture. Technology. Learning every day.
 
 ## Work
