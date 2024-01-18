@@ -35,6 +35,6 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
   * [BlueSky](https://bsky.app/profile/ewolff.com)
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
   
-## Profiles
+## Microservices Demos
   
 I have a couple of [microservices-demos](microservices-demos.html) on Github.

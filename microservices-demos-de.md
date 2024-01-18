@@ -3,8 +3,6 @@ title: "Microservices Demos"
 layout: de
 ---
 
-# Microservices Demos
-
 ## Synchrone Kommunikation
 
 Es gibt verschiedene Möglichkeiten für synchrone Kommunikation

@@ -2,8 +2,6 @@
 title: "Microservices Demos"
 ---
 
-# Microservices Demos
-
 ## Synchronous Communication
 
 There are several options for synchronous communication between microservices:
