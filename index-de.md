@@ -1,9 +1,7 @@
 ---
-title: ewolff.com
+title: Eberhard Wolff
 layout: de
 ---
-
-# Eberhard Wolff
 
 Software Architecture. Technology. Learning every day.
 

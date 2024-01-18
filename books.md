@@ -1,5 +1,5 @@
 ---
-title: Eberhard Wolff - Books
+title: Books
 ---
 
 # English Books

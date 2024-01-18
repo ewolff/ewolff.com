@@ -1,5 +1,5 @@
 ---
-title: Eberhard Wolff's Schedule
+title: Schedule
 layout: de
 ---
 

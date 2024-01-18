@@ -1,5 +1,5 @@
 ---
-title: Termine mit Eberhard Wolff
+title: Termine
 layout: de
 ---
 
