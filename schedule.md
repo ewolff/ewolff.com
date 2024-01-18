@@ -1,6 +1,5 @@
 ---
 title: Schedule
-layout: de
 ---
 
 |                     Datum | Termin                                                                                                                                                                                                            |
