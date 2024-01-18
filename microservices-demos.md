@@ -109,6 +109,5 @@ shows all the parts of a continuous delivery pipeline with a simple [demo applic
   - [Graphite](https://github.com/ewolff/user-registration-V2/tree/master/graphite) for monitoring.
   - [Log Analysis](https://github.com/ewolff/user-registration-V2/tree/master/log-analysis) with the Elastic stack
   - [Acceptance tests](https://github.com/ewolff/user-registration-V2/tree/master/user-registration-acceptancetest-jbehave-english) in English with JBehave.
-  - [Acceptance tests](https://github.com/ewolff/user-registration-V2/tree/master/user-registration-acceptancetest-jbehave) in German with JBehave.
   - [Acceptance tests](https://github.com/ewolff/user-registration-V2/tree/master/user-registration-acceptancetest-selenium) with Selenium.
   - [Capacity test](https://github.com/ewolff/user-registration-V2/tree/master/user-registration-capacitytest-gatling) with Gatling
