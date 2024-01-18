@@ -19,14 +19,12 @@ for log analysis, and
 [Zipkin](https://github.com/ewolff/microservice-consul#zipkin) to
 trace calls between microservices.
   - [How to run](https://github.com/ewolff/microservice-consul/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-consul/blob/master/WIE-LAUFEN.md)
 
 * The [Consul DNS demo](https://github.com/ewolff/microservice-consul-dns) is
 written in Java with Spring Cloud / Boot. The demo uses Consul for
 service discovery but with its DNS interface and automated
 registration using Registrator. Apache httpd is used for routing.
   - [How to run](https://github.com/ewolff/microservice-consul-dns/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-consul-dns/blob/master/WIE-LAUFEN.md)
 
 
 * The [Netflix demo](https://github.com/ewolff/microservice) uses the
@@ -35,7 +33,6 @@ registration using Registrator. Apache httpd is used for routing.
   Netflix Zuul for routing, Hystrix for resilience and Ribbon for load
   balancing.
   - [How to run](https://github.com/ewolff/microservice/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice/blob/master/WIE-LAUFEN.md)
 
 * Kubernetes is a system to run Docker containers in a cluster. The
   [Kubernetes demo](https://github.com/ewolff/microservice-kubernetes)
@@ -43,7 +40,6 @@ registration using Registrator. Apache httpd is used for routing.
   service discovery, routing and load balancing.  The demo also uses
   Hystrix for resilience. The code does not depend on Kubernetes.
   - [How to run](https://github.com/ewolff/microservice-kubernetes/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-kubernetes/blob/master/WIE-LAUFEN.md)
 
 * Cloud Foundry is a PaaS. It provides an application with an
   environment to run in. The
@@ -53,7 +49,6 @@ registration using Registrator. Apache httpd is used for routing.
   also uses Hystrix for resilience. The code does not depend on Cloud
   Foundry.
   - [How to run](https://github.com/ewolff/microservice-cloudfoundry/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-cloudfoundry/blob/master/WIE-LAUFEN.md)
 
 ## Asynchronous Communication
 
@@ -64,12 +59,10 @@ networks and services:
 communication. Kafka is a message-oriented middleware and allows
 systems to send messages to one another.
   - [How to run](https://github.com/ewolff/microservice-kafka/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-kafka/blob/master/WIE-LAUFEN.md)
 
 * [Atom](https://github.com/ewolff/microservice-atom) uses REST / HTTP
   for asynchronous communication with the Atom format.
   - [How to run](https://github.com/ewolff/microservice-atom/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-atom/blob/master/WIE-LAUFEN.md)
 
 * [Istio](https://github.com/ewolff/microservice-istio) extends the
   Atom example above to use the Istio service mesh. This supports
@@ -93,17 +86,15 @@ Includes (ESI) can be used to integrate the UI of microservices. On
 microservice is written in Java with Spring Boot, the other one with
 Go. The Go microservices is built using multi stage Docker containers.
   - [How to run](https://github.com/ewolff/SCS-ESI/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/SCS-ESI/blob/master/WIE-LAUFEN.md)
 
 * [jQuery](https://github.com/ewolff/SCS-jQuery) shows how jQuery can
   be used to integrate the UI of microservices.
   - [How to run](https://github.com/ewolff/SCS-jQuery/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/SCS-jQuery/blob/master/WIE-LAUFEN.md)
+
 
 * [Crimson Assurance](https://github.com/ewolff/crimson-assurance-demo)
   is a more complex demo for a frontend integration.
   - [How to run](https://github.com/ewolff/crimson-insurance-demo/blob/master/HOW-TO-RUN.md)
-  - [Deutsche Anleitung zum Starten des Beispiels](https://github.com/ewolff/crimson-insurance-demo/blob/master/WIE-LAUFEN.md)
 
 
 The website for each demo explains how the demo can be built and
