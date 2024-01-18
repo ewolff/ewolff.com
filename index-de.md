@@ -1,5 +1,6 @@
 ---
 title: ewolff.com
+layout: de
 ---
 
 # Eberhard Wolff
@@ -73,6 +74,6 @@ Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
  * [Playlist: Englische Interviews & Diskussionen](https://www.youtube.com/playlist?list=PLeXlULyOtEneFtbnf0bTy5aY7DSJ6PsGq)
  * [Playlist: Deutsche Interviews & Diskussionen](https://www.youtube.com/playlist?list=PLeXlULyOtEnfASazcsQz9iGPkuLdbLdl3)
 
-Ich habe einige [microservices-demos](microservices-demos-de.html) bei Github.
+Ich habe einige [Microservices-Demos](microservices-demos-de.html) bei Github.
 
-[Speaking Rules](speaking-rules.html)
+[Regeln für Vorträge](speaking-rules.html)
