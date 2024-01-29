@@ -18,7 +18,7 @@ title: Schedule
 |                2024-04-?? | [Architektur: Den menschlichen Faktor verbessern!](https://jax.de/software-architecture/architektur-menschlicher-faktor/) at [JAX](https://jax.de/)                                                               |
 |           2024-04-26 9:00 | [Microservices-Workshop für Fortgeschrittene](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) at [JAX](https://jax.de/)                                                                    |
 |           2024-06-03 - 05 | [FLEX-Training in Karlsruhe](https://www.socreatory.com/de/trainings/flex)                                                                                                                                        |
-|           2024-06-12 9:00 | [Workshop "Modularisieren! Aber wie?"](https://mad-summit.de/fundamentals/modularisieren/)  at [MAD-Summit München](https://mad-summit.de/)                                                                       |
+|           2024-06-10 -12 | [Workshop "Microservices? Modulithen? Monolithen?"](https://mad-summit.de/fundamentals/microservices-modulithen-monolithen/) at [MAD-Summit München](https://mad-summit.de/)                                                                       |
 |           2024-09-11 - 13 | [FLEX-Training in Karlsruhe](https://www.socreatory.com/de/trainings/flex)                                                                                                                                        |
 
 
