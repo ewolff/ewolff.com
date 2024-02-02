@@ -1,23 +1,22 @@
 ---
 title: Eberhard Wolff
-layout: de
 ---
 
 <center>
 <img
 	src="images/EberhardWolff.jpg"
-	alt="Porträt von Eberhard Wolff"/>
+	alt="Portrait of Eberhard Wolff"/>
 </center>
 
 Software Architecture. Technology. Learning every day.
 
-## Arbeit
+## Work
 
-Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
+Head of Architecture at [SWAGLab](https://swaglab.rocks/)
 
 ## Trainings
 
-* [Trainer-Profil bei
+* [Trainer Profile at
   Socreatory](https://www.socreatory.com/de/trainers/eberhard-wolff)
 * [Softwarearchitektur-Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart)
 * [FLEX-Training](https://www.socreatory.com/de/trainings/flex)
@@ -30,7 +29,7 @@ Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
 * [Twitch](https://www.twitch.tv/ebrwolff)
 * [PeerTube](https://tube.tchncs.de/a/eberhard_wolff/video-channels)
 
-## Social Media und Profile im Web
+## Social Media and Profile on the Web
 
   * [LinkedIn](https://www.linkedin.com/in/eberhardwolff/)
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
@@ -41,7 +40,7 @@ Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
   * [BlueSky](https://bsky.app/profile/ewolff.com)
   * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
-
-## Microservices-Demos
-
-Ich habe einige [Microservices-Demos](microservices-demos-de.html) bei Github.
+  
+## Microservices Demos
+  
+I have a couple of [microservices-demos](microservices-demos.html) on Github.
