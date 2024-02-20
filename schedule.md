@@ -4,7 +4,6 @@ title: Schedule
 
 |                     Datum | Termin                                                                                                                                                                                                            |
 |--------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ab 2024-02-19 wöchentlich | [Softwarearchitektur-Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart)                                                                                                                           |
 |          2024-02-26 17:30 | [UnConference "Software-Entwicklung und Menschen - Team-Topologies, sozio-technische Systeme, Conway's Law und mehr"](https://zoom.us/meeting/register/tJAlfumqqjgrG9RWxY3BTEiqJ0p_h6c4VUGz#/registration)        |
 |          2024-03-12 10:00 | [Workshop "Modularisieren! Aber wie?"](https://software-architecture-summit.de/softwarearchitecture/modularisieren-aber-wie/) at [Software Architecture Summit München](https://software-architecture-summit.de/) |
 |          2024-03-19 18:00 | [Domain-driven Design: Konzepte und Fallstricke beim DDD Meetup Rhein / Main](https://www.meetup.com/de-DE/domain-driven-design-rhein-main/events/298610790/?isFirstPublish=true)                                 |
