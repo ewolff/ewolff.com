@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                                            |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-03-12 10:00 | [Workshop "Modularisieren! Aber wie?"](https://software-architecture-summit.de/softwarearchitecture/modularisieren-aber-wie/) at [Software Architecture Summit München](https://software-architecture-summit.de/) |
 | 2024-03-19 18:00 | [Domain-driven Design: Konzepte und Fallstricke beim DDD Meetup Rhein / Main](https://www.meetup.com/de-DE/domain-driven-design-rhein-main/events/298610790/?isFirstPublish=true)                                 |
 | 2024-03-20 18:30 | [Double Feature – Spring Modulith & Microservices, Monoliths](https://www.meetup.com/jug-mainz/events/299032116/) at [JUG Mainz](https://www.meetup.com/jug-mainz/)                                               |
 | 2024-04-09 19:00 | [Domain-driven Design: Konzepte und Fallstricke bei der JavaLand](https://meine.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)                                                                        |
