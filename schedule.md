@@ -6,6 +6,7 @@ title: Schedule
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2024-03-19 18:00 | [Domain-driven Design: Konzepte und Fallstricke beim DDD Meetup Rhein / Main](https://www.meetup.com/de-DE/domain-driven-design-rhein-main/events/298610790/?isFirstPublish=true)                     |
 | 2024-03-20 18:30 | [Double Feature – Spring Modulith & Microservices, Monoliths](https://www.meetup.com/jug-mainz/events/299032116/) at [JUG Mainz](https://www.meetup.com/jug-mainz/)                                   |
+| 2024-03-21 13:30 | [Microservices, Monolithen - Hauptsache Module!](https://entwickler.de/live-events/mad-afternoon/)                                                                                                    |
 | 2024-04-02 18:30 | [Scrum User Group Karlsruhe: Wahrheiten über Software-Entwicklung / Robert Károly Fighting Agile](https://www.meetup.com/scrum-user-group-karlsruhe/events/299772520/)                                |
 | 2024-04-09 19:00 | [Domain-driven Design: Konzepte und Fallstricke bei der JavaLand](https://meine.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)                                                            |
 |       2024-04-16 | [Keynote "Die unsichtbare Kunst: Software-Entwicklung wirklich verstehen" DevDay Dresden](https://www.devday.de/)                                                                                     |
