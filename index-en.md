@@ -47,3 +47,6 @@ with me](https://calendly.com/eberhard-wolff-swaglab/).
 ## Microservices Demos
   
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
+
+<a href="https://512kb.club"><img src="https://512kb.club/assets/images/orange-team.svg"
+alt="a proud member of the orange team of 512KB club" /></a>
