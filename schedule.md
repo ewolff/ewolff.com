@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                                |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       2024-04-16 | [Keynote "Die unsichtbare Kunst: Software-Entwicklung wirklich verstehen" DevDay Dresden](https://www.devday.de/)                                                                                     |
 | 2024-04-22 09:00 | [Microservices-Workshop für Fortgeschrittene](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) at [JAX](https://jax.de/)                                                        |
 | 2024-04-23 12:00 | [Legacy-Software - nur scheinbar ein Problem](https://jax.de/microservices/legacy-software-nur-scheinbar-problem/) at [JAX](https://jax.de/)                                                          |
 | 2024-04-24 10:15 | [Architektur: Den menschlichen Faktor verbessern!](https://jax.de/software-architecture/architektur-menschlicher-faktor/) at [JAX](https://jax.de/)                                                   |
