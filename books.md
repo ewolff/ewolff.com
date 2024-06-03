@@ -26,3 +26,7 @@ title: Books
 * [Spring Buch](https://www.goodreads.com/book/show/13056315-spring-3)
 * [Die Aphorismen des Eberhard
   Wolff](https://entwickler.de/karriere/die-aphorismen-des-eberhard-wolff/)
+
+# Scientific Publications
+
+* [List of scientific puiblications at DBLP](https://dblp.org/pid/81/1353.html)

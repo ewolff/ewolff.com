@@ -28,3 +28,7 @@ layout: de
   mit Hanna Prinz
 * [KOSTENLOSER Microservices Primer](http://microservices-book.com/primer.html)
 * [Microservices Book](http://microservices-book.com)
+
+# Wissenschaftliche Publikationen
+
+* [DBLP Liste](https://dblp.org/pid/81/1353.html)
