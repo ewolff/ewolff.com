@@ -11,6 +11,7 @@ layout: de
 |  2024-09-11 - 13 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                              |
 |  2024-09-19 9:00 | Die Evolution von Architektur durch Team Topologies at [BED-Con](https://bed-con.org/2024/programm)                                                                                                                                |
 |  2024-10-07 - 09 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                              |
+| 2024-11-13 10:00 | [Can We Measure Developer Productivity?](https://conferences.isaqb.org/software-architecture-gathering/program-2024/#can-we-measure-developer-productivity) at [Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/) |
 |  2024-12-12 9:00 | [Autonome Teams: Wollen wir das wirklich?](https://www.ittage.informatik-aktuell.de/programm/2024/autonome-teams-wollen-wir-das-wirklich.html) bei den [IT-Tagen](https://www.ittage.informatik-aktuell.de/)                         |
 | 2024-12-12 11:00 | [Die Evolution von Architektur durch Team Topologies](https://www.ittage.informatik-aktuell.de/programm/2024/die-evolution-von-architektur-durch-team-topologies.html) bei den [IT-Tagen](https://www.ittage.informatik-aktuell.de/) |
 
