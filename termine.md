@@ -9,6 +9,7 @@ layout: de
 | 2024-07-25 12:00 | Legacy Software: Wirklich ein Problem? online bei [Mastering Legacy-Software](https://entwickler.de/live-events/mastering-legacy-software/) |
 | 2024-07-31 16:40 | [Domain-driven Design: Ein vollständiges Beispiel](https://www.java-forum-stuttgart.de/vortraege/domain-driven-design-ein-vollstaendiges-beispiel/) bei [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/vortraege/2024/) |
 |  2024-09-11 - 13 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                              |
+| 2024-09-17 15:15 | Domain-driven Design: Ein vollständiges Beispiel beim [Domain-driven Design Infoday](https://www.infodays.de/ddd) |
 |  2024-09-19 9:00 | Die Evolution von Architektur durch Team Topologies bei der [BED-Con](https://bed-con.org/2024/programm)                                                                                                                                |
 |  2024-10-07 - 09 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                              |
 | 2024-10-22 13:45 | [Domain-driven Design: Ein vollständiges Beispiel](https://www.software-architecture-alliance.de/2024/programm/konferenzprogramm#item-7965) bei der [Software Architecture Alliance](https://www.software-architecture-alliance.de/) |
