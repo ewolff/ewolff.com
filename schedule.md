@@ -10,6 +10,7 @@ title: Schedule
 |  2024-09-11 - 13 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                               |
 | 2024-09-17 15:15 | Domain-driven Design: Ein vollständiges Beispiel at [Domain-driven Design Infoday](https://www.infodays.de/ddd) |
 |  2024-09-19 9:00 | Die Evolution von Architektur durch Team Topologies at [BED-Con](https://bed-con.org/2024/programm)                                                                                                                             |
+|  2024-09-24 - 26 | [JAX-Camp: Microservices, sozio-technische Architekturen & Team Topologies](https://jax.de/jax-microservices-camp/?go=ok) |
 |  2024-10-07 - 09 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                               |
 | 2024-10-22 13:45 | [Domain-driven Design: Ein vollständiges Beispiel](https://www.software-architecture-alliance.de/2024/programm/konferenzprogramm#item-7965) at [Software Architecture Alliance](https://www.software-architecture-alliance.de/) |
 | 2024-11-04 9-17 | [Microservices-Workshop für Fortgeschrittene](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) at [WJAX](https://jax.de/muenchen/)|
