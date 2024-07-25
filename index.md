@@ -11,7 +11,7 @@ layout: de
 
 Software Architecture. Technology. Learning every day.
 
-Buche gerne [eine Stunde KOSTENLOSES Consulting mit mir](https://calendly.com/eberhard-wolff-swaglab/).
+Trinke gerne [einen virtuellen Kaffee ☕👋 mit mir](https://calendly.com/eberhard-wolff-swaglab/)!
 
 ## Arbeit
 
