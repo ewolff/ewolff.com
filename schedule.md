@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                                                               |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-07-31 16:40 | ["Domain-driven Design: A Complete Example"](https://www.java-forum-stuttgart.de/vortraege/domain-driven-design-ein-vollstaendiges-beispiel/) at [Java Forum Stuttgart](https://www.java-forum-stuttgart.de/vortraege/2024/)         |
 |  2024-09-11 - 13 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                               |
 | 2024-09-17 15:15 | Domain-driven Design: Ein vollständiges Beispiel at [Domain-driven Design Infoday](https://www.infodays.de/ddd) |
 |  2024-09-19 9:00 | Die Evolution von Architektur durch Team Topologies at [BED-Con](https://bed-con.org/2024/programm)                                                                                                                             |
