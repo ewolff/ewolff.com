@@ -7,6 +7,7 @@ layout: de
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2024-09-17 15:15 | Domain-driven Design: Ein vollständiges Beispiel beim [Domain-driven Design Infoday](https://www.infodays.de/ddd) |
 |  2024-09-19 9:00 | Die Evolution von Architektur durch Team Topologies bei der [BED-Con](https://bed-con.org/2024/programm)                                                                                                                            |
+| 2024-09-19 16:20 | Domain-driven Design: Ein vollständiges Beispiel bei der [BED-Con](https://bed-con.org/2024/programm) |
 |  2024-09-24 - 26 | [JAX-Camp: Microservices, sozio-technische Architekturen & Team Topologies](https://jax.de/jax-microservices-camp/?go=ok) |
 |  2024-10-07 - 09 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                              |
 | 2024-10-16 9:00 | Keynote [Wahrheiten über Software Entwicklung: Darüber möchte ich nicht mehr sprechen müssen!](https://software-architecture-summit.de/softwarearchitecture/wahrheiten-ueber-software-entwicklung-darueber-moechte-ich-nicht-mehr-sprechen-muessen/) beim [Software Architecture Summit](https://software-architecture-summit.de/) |
