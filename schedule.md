@@ -4,11 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                                                               |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-09-17 15:15 | Domain-driven Design: Ein vollständiges Beispiel at [Domain-driven Design Infoday](https://www.infodays.de/ddd) |
-|  2024-09-19 9:00 | Die Evolution von Architektur durch Team Topologies at [BED-Con](https://bed-con.org/2024/programm)                                                                                                                             |
-| 2024-09-19 16:20 | Domain-driven Design: Ein vollständiges Beispiel at [BED-Con](https://bed-con.org/2024/programm) |
-|  2024-09-24 - 26 | [JAX-Camp: Microservices, sozio-technische Architekturen & Team Topologies](https://jax.de/jax-microservices-camp/?go=ok) |
-|  2024-10-07 - 09 | [FLEX-Training (online)](https://www.socreatory.com/de/trainings/flex)                                                                                                                                                               |
 | 2024-10-16 9:00 | Keynote [Wahrheiten über Software Entwicklung: Darüber möchte ich nicht mehr sprechen müssen!](https://software-architecture-summit.de/softwarearchitecture/wahrheiten-ueber-software-entwicklung-darueber-moechte-ich-nicht-mehr-sprechen-muessen/) at [Software Architecture Summit](https://software-architecture-summit.de/) |
 | 2024-10-22 13:45 | [Domain-driven Design: Ein vollständiges Beispiel](https://www.software-architecture-alliance.de/2024/programm/konferenzprogramm#item-7965) at [Software Architecture Alliance](https://www.software-architecture-alliance.de/) |
 | 2024-10-29 9:15 | Architektur-Migration (nicht nur) zu Microservices at [Mastering Microservices](https://konferenzen.heise.de/mastering-microservices/) |
