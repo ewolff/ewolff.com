@@ -12,3 +12,5 @@ title: Eberhard Wolff's Blog
    </li>
 {% endfor %}
 </ul>
+
+[Feed](/feed.xml)
