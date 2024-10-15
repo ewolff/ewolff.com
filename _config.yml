@@ -5,4 +5,7 @@ author:
   name: Eberhard Wolff
   url: http://ewolff.com
 
+plugins:
+  - jekyll-feed
+
 markdown: kramdown
