@@ -14,8 +14,9 @@ Software Architecture. Technology. Learning every day.
 
 Head of Architecture at [SWAGLab](https://swaglab.rocks/)
 
-I would be more than happy if you booked [one hour of FREE  consulting
-with me](https://calendly.com/eberhard-wolff-swaglab/).
+I would be more to drink a [virtual coffee with you online](https://calendly.com/eberhard-wolff-swaglab/).
+
+
 
 ## Trainings
 
