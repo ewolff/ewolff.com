@@ -5,9 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                                              |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-10-16 9:00 | Keynote [Wahrheiten über Software Entwicklung: Darüber möchte ich nicht mehr sprechen müssen!](https://software-architecture-summit.de/softwarearchitecture/wahrheiten-ueber-software-entwicklung-darueber-moechte-ich-nicht-mehr-sprechen-muessen/) beim [Software Architecture Summit](https://software-architecture-summit.de/) |
-| 2024-10-22 13:45 | [Domain-driven Design: Ein vollständiges Beispiel](https://www.software-architecture-alliance.de/2024/programm/konferenzprogramm#item-7965) bei der [Software Architecture Alliance](https://www.software-architecture-alliance.de/) |
-| 2024-10-29 9:15 | Architektur-Migration (nicht nur) zu Microservices bei [Mastering Microservices](https://konferenzen.heise.de/mastering-microservices/) |
 | 2024-11-04 9-17 | [Microservices-Workshop für Fortgeschrittene](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) bei der [WJAX](https://jax.de/muenchen/)|
 | 2024-11-06 10:15 | [Die Evolution von Architektur durch Team Topologies](https://jax.de/software-architecture/architektur-evolution-team-topologies) bei der [WJAX](https://jax.de/muenchen/)|
 | 2024-11-08 9-17 | [Workshop: Team Topologies, Inverse Conway und mehr, ganz praktisch](https://jax.de/software-architecture/soziotechnischer-architektur-workshop/) bei der [WJAX](https://jax.de/muenchen/)|
