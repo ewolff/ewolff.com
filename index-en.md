@@ -42,8 +42,9 @@ with me](https://calendly.com/eberhard-wolff-swaglab/).
   * [Socreatoy](https://www.socreatory.com/de/trainers/eberhard-wolff)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
   * [BlueSky](https://bsky.app/profile/ewolff.com)
-  * [Blog](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
-  
+  * [Blog DE](http://www.heise.de/developer/Continuous-Architecture-2687847.html)
+  * [Blog EN](/blog.html)
+
 ## Microservices Demos
   
 I have a couple of [microservices-demos](microservices-demos.html) on Github.
