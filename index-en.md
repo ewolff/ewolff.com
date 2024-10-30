@@ -16,6 +16,15 @@ Head of Architecture at [SWAGLab](https://swaglab.rocks/)
 
 I would be more to drink a [virtual coffee with you online](https://calendly.com/eberhard-wolff-swaglab/).
 
+<script>
+function decryptEmail(encoded) {
+  var address = atob(encoded);
+  window.location.href = "mailto:" + address;
+}
+</script>
+
+Or send an
+<a href="javascript:decryptEmail('ZWJlcmhhcmQud29sZmZAc3dhZ2xhYi5yb2Nrcw==');">e-mail</a>.
 
 
 ## Trainings

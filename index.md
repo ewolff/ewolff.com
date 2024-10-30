@@ -13,6 +13,16 @@ Software Architecture. Technology. Learning every day.
 
 Trinke gerne [einen virtuellen Kaffee ☕👋 mit mir](https://calendly.com/eberhard-wolff-swaglab/)!
 
+<script>
+function decryptEmail(encoded) {
+  var address = atob(encoded);
+  window.location.href = "mailto:" + address;
+}
+</script>
+ 
+Oder schicke eine
+<a href="javascript:decryptEmail('ZWJlcmhhcmQud29sZmZAc3dhZ2xhYi5yb2Nrcw==');">EMail</a>.
+
 ## Arbeit
 
 Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
