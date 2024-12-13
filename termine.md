@@ -16,6 +16,7 @@ layout: de
 | 2025-05-06 - 08 | [Softwarearchitektur: Muss das sein?](https://jax.de/software-architecture/software-architektur-muss-sein/) bei der [JAX](https://jax.de/) |
 | 2025-05-09 9-17 | [Architektur-Workshop: Team Topologies, Soziotechnik und mehr, ganz praktisch](https://jax.de/software-architecture/soziotechnischer-architektur-workshop/) bei der [JAX](https://jax.de/) |
 | 2025-05-13 - 15 | [JCON Europe 2025 Cologne](https://2025.europe.jcon.one/) |
+| 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in München |
 |  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
 
 Und natürlich [Software Architektur im
