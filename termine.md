@@ -18,7 +18,10 @@ layout: de
 | 2025-05-13 - 15 | [JCON Europe 2025 Cologne](https://2025.europe.jcon.one/) |
 | 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in München |
 |  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
+|  2025-07-22 - 24 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
 | 2025-07-29 / 30 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) online |
+|  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
+|  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 
 Und natürlich [Software Architektur im
 Stream](https://software-architektur.tv/).

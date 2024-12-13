@@ -16,7 +16,10 @@ title: Schedule
 | 2025-05-09 9-17 | [Architektur-Workshop: Team Topologies, Soziotechnik und mehr, ganz praktisch](https://jax.de/software-architecture/soziotechnischer-architektur-workshop/) at [JAX](https://jax.de/) |
 | 2025-05-13 - 15 | [JCON Europe 2025 Cologne](https://2025.europe.jcon.one/) |
 | 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in Munich |
-|  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                 |
+|  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
+|  2025-07-22 - 24 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 | 2025-07-29 / 30 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) online |
+|  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
+|  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 
 And [Software Architektur im Stream](https://software-architektur.tv/).
