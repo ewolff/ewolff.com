@@ -10,7 +10,7 @@ wichtigen Rohstoffe beispielsweise im Programm-Code wiederzuverwenden.
 
 <button onclick="recycleText()">Recyceln</button>
 
-# Sortierter Text
+## Sortierter Text
 
 <span id="output"></span>
 
@@ -31,7 +31,7 @@ wichtigen Rohstoffe beispielsweise im Programm-Code wiederzuverwenden.
    }
 </script>
 
-# Anschrieb
+## Anschrieb
 
 Danke für Ihre Nachricht! Sie ist unverlangt und bietet keinen
 Wert. Ich habe daher ihre Nachricht nach Buchstaben sortiert, so dass
@@ -39,7 +39,7 @@ sie diese Buchstaben nun einer neuen Verwendung zuführen
 können. Natürlich können Sie diese Funktionalität auch selber nutzen
 unter [https://ewolff.com/recycler](https://ewolff.com/recycler).
 
-# Opening Message
+## Opening Message
 
 Thank you for your message! It was unsolicited and provides no
 value. Therefore, I have sorted its letters alphabetically so that you
