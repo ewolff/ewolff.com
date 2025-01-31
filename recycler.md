@@ -13,11 +13,20 @@ wichtigen Rohstoffe beispielsweise im Programm-Code wiederzuverwenden.
 # Sortierter Text
 
 <span id="output"></span>
-    
+
 <script>
    function recycleText() {
      let text = document.getElementById("textInput").value;
-     let sortedText = text.split("").sort((a, b) => a.localeCompare(b, 'de')).join("");
+     let Segmenter = window.Intl && Intl.Segmenter;
+     let parts = [];
+     if (Segmenter) {
+       for (let { segment } of new Segmenter().segment(text)) {
+         parts.push(segment);
+       }
+     } else {
+       parts = text.split("");
+     }
+     let sortedText = parts.sort((a, b) => a.localeCompare(b, "de")).join("");
      document.getElementById("output").textContent = sortedText;
    }
 </script>
