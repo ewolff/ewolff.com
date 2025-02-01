@@ -61,3 +61,7 @@ I have a couple of [microservices-demos](microservices-demos.html) on Github.
 
 <a href="https://512kb.club"><img src="https://512kb.club/assets/images/orange-team.svg"
 alt="a proud member of the orange team of 512KB club" /></a>
+
+## Spam Recycling  
+
+I have implemented a [recycler](./recycler) for spam messages.

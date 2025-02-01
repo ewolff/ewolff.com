@@ -2,15 +2,15 @@
 title: Recycler
 ---
 
-Spam verschmutzt das Internet. Dieser Recycler bietet die Möglichkeit,
-Spam-Nachrichten in einzelne Buchstaben zu sortieren, um diese
-wichtigen Rohstoffe beispielsweise im Programm-Code wiederzuverwenden.
+Spam pollutes the internet. This recycler provides the ability to sort
+spam messages into individual letters, allowing these valuable raw
+materials to be reused, for example, in program code.
 
-<textarea id="textInput" rows="5" placeholder="Gib deinen Text ein"></textarea>
+<textarea id="textInput" rows="5" placeholder="Enter the text"></textarea>
 
 <button onclick="recycleText()">Recyceln</button>
 
-## Sortierter Text
+## Sorted Text
 
 <span id="output"></span>
 
@@ -26,18 +26,10 @@ wichtigen Rohstoffe beispielsweise im Programm-Code wiederzuverwenden.
      } else {
        parts = text.split("");
      }
-     let sortedText = parts.sort((a, b) => a.localeCompare(b, "de")).join("");
+     let sortedText = parts.sort((a, b) => a.localeCompare(b, "en")).join("");
      document.getElementById("output").textContent = sortedText;
    }
 </script>
-
-## Anschrieb
-
-Danke für Ihre Nachricht! Sie ist unverlangt und bietet keinen
-Wert. Ich habe daher ihre Nachricht nach Buchstaben sortiert, so dass
-sie diese Buchstaben nun einer neuen Verwendung zuführen
-können. Natürlich können Sie diese Funktionalität auch selber nutzen
-unter [https://ewolff.com/recycler](https://ewolff.com/recycler).
 
 ## Opening Message
 

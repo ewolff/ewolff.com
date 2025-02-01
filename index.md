@@ -64,4 +64,4 @@ alt="a proud member of the orange team of 512KB club" /></a>
 
 ## Spam-Recycling
 
-Ich habe einen [Recycler](./recycler) für Spam-Nachrichten implementiert.
+Ich habe einen [Recycler](./recycler-de) für Spam-Nachrichten implementiert.
