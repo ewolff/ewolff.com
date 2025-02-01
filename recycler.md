@@ -1,5 +1,5 @@
 ---
-title: Recycler
+title: Spam Recycler
 ---
 
 Spam pollutes the internet. This recycler provides the ability to sort
@@ -8,7 +8,7 @@ materials to be reused, for example, in program code.
 
 <textarea id="textInput" rows="5" placeholder="Enter the text"></textarea>
 
-<button onclick="recycleText()">Recyceln</button>
+<button onclick="recycleText()">Recycle</button>
 
 ## Sorted Text
 
