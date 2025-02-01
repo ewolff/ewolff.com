@@ -1,5 +1,5 @@
 ---
-title: Recycler
+title: Spam Recycler
 layout: de
 ---
 
