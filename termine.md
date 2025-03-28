@@ -5,8 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                   |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-03-24 14:00-17:30 | [Software-Architektur live gestalten: von Analyse bis zur Umsetzung](https://software-architecture-summit.de/softwarearchitecture/wir-bauen-eine-software-architektur/) beim [Software Architecture Summit](https://software-architecture-summit.de/) |
-|  2025-03-25 - 27 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
 | 2025-04-03 11:15 | Architecture and Agility: A Shared Skillset! bei [Agile Meets Architecture](https://www.agile-meets-architecture.com/) |
 |  2025-04-08 - 10 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Karlsruhe                                                                   |
 | 2025-05-05 9-17 | [Workshop: Wir bauen eine Software-Architektur!](https://jax.de/software-architecture/workshop-software-architektur-bauen) bei der [JAX](https://jax.de/) |
