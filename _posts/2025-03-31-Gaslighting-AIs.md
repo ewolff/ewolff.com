@@ -23,6 +23,8 @@ generators. They do not have emotions as the paper says. Therefore, for
 the rest of the text I will use the term "text generator" which I
 think fits better to what LLMs actually do.
 
+## Text Generators - not LLMs
+
 Text generators can obviously generate a text that seems like a plausible
 explanation how to create a Molotov cocktail - just like they can
 generate [plausible references to cases for an
@@ -51,6 +53,8 @@ is blurred out in the original paper - which makes a lot of sense of
 course. Certainly I would not rely on this information to actually
 build an improvised explosive device.
 
+## Security Risk?
+
 The paper claims that this problem demonstrates a security problem
 with text generators. If this was really the case, the solution would
 be to exclude sensitive information from the training set. Tuning the
@@ -67,6 +71,8 @@ presented was not fake - which the paper does not say anything
 about. If it is fake, could you even consider it a
 [honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)) to keep
 people away from the real information?
+
+## So How Do Actually Build a Moltov Cocktail?
 
 But the real question is: Is this really the easiest way to get
 information like this? Imagine I plan to build a Molotov cocktail -
