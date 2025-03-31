@@ -16,14 +16,14 @@ Interestingly enough,
 [gaslighting](https://en.wikipedia.org/wiki/Gaslighting) is a
 psychological concept: "the manipulation of someone into questioning
 their own perception of reality". LLMs generate text. They do not
-perceive reality. The text argue that this attack might still work
+perceive reality. The text argues that this attack might still work
 because the training set is written by humans therefore concepts like
 gaslighting work. However, we must never forget that LLMs are text
 generators. They do not have emotions as the paper says. Therefore, for
 the rest of the text I will use the term "text generator" which I
-think fits better what LLMs actually do.
+think fits better to what LLMs actually do.
 
-Text generators can obviously generate a text that seem a plausible
+Text generators can obviously generate a text that seems like a plausible
 explanation how to create a Molotov cocktail - just like they can
 generate [plausible references to cases for an
 attorney](https://news.bloomberglaw.com/litigation/lawyer-sanctioned-over-ai-hallucinated-case-cites-quotations).
@@ -72,7 +72,7 @@ But the real question is: Is this really the easiest way to get
 information like this? Imagine I plan to build a Molotov cocktail -
 would I use sophisticated "psychological" "attacks" against a text
 generator to get an answer that might be wrong? So I tried the
-obviously way: A search on a search engine. Two clicks later I found a
+obviousl way: A search on a search engine. Two clicks later I found a
 document that explains how to build sophisticated improvised explosive
 devices and I have good reason to believe that they actually work. I
 have to admit that this particular document does not explain how to
