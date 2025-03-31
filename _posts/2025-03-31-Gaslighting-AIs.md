@@ -17,7 +17,7 @@ Interestingly enough,
 psychological concept: "the manipulation of someone into questioning
 their own perception of reality". LLMs generate text. They do not
 perceive reality. The text argue that this attack might still work
-because the training set is written by humans therefore concepts light
+because the training set is written by humans therefore concepts like
 gaslighting work. However, we must never forget that LLMs are text
 generators. They do not have emotions as the paper says. Therefore, for
 the rest of the text I will use the term "text generator" which I
