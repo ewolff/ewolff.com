@@ -1,7 +1,7 @@
 ---
 title: Gaslighting AI - Really?
 layout: blog
-description: Psychological are used against an LLM - but does that really matter?
+description: Psychological tricks are used against an LLM - but does that really matter?
 tags:
 - Artificial Intelligence
 ---
