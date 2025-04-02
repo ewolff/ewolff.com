@@ -33,7 +33,7 @@ then find themselves in an ivory tower, detached from the developers’
 reality at the code level.
 
 For code, it is possible to ensure that the structures in diagrams are
-actually followed. [Architectural management
+actually followed. [Architecture management
 tools](https://software-architektur.tv/tags.html#Architecture%20Management)
 can be used for this purpose. These tools check whether the code
 adheres to a predefined structure and contains only permitted
