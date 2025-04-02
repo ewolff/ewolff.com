@@ -1,8 +1,7 @@
 ---
 title: Designing People and Teams - Same as Designing Software?
 layout: blog
-description: Software development projects are sociotechnical systems:
-they have a technical component - the software - but also a social component: the team that creates the software. Both aspects must be deliberately designed. Can the same concepts be applied to both?
+description: Software development projects are sociotechnical systems. They have a technical component - the software - but also a social component, the team that creates the software. Both aspects must be deliberately designed. Can the same concepts be applied to both?
 tags:
 - Software Development
 - Sociotechnical
