@@ -94,6 +94,3 @@ fake news. More often than not, there are easier ways to get sensitive
 information. This is in particular true for improvised explosive
 devices. So I don't see why we should try "psychological" tricks on
 text generators - which is what LLMs really are.
-
-*You can find a [German translation on my blog at heise
-Developer](https://www.heise.de/blog/Kann-man-KIs-psychologisch-austricksen-10334947.html).*
