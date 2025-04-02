@@ -10,7 +10,7 @@ tags:
 Software architecture structures software systems. Naturally,
 important decisions should be documented in text: for example,
 individual decisions as Architecture Decision Records or the entire
-architecture using standards like arc42 or
+architecture using standards like [arc42](https://arc42.de/) or
 [C4](https://software-architektur.tv/2021/01/22/folge36.html). A
 popular tool that can be part of such documentation is
 diagrams. Diagrams are particularly useful in discussions and often
