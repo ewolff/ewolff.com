@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                              |
 |-----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-04-03 11:15 | Architecture and Agility: A Shared Skillset! at [Agile Meets Architecture](https://www.agile-meets-architecture.com/) |
 |  2025-04-08 - 10 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Karlsruhe                                                              |
 | 2025-05-05 9-17 | [Workshop: Wir bauen eine Software-Architektur!](https://jax.de/software-architecture/workshop-software-architektur-bauen) at [JAX](https://jax.de/) |
 | 2025-05-06 - 08 | [20 Jahre Domain-Driven Design: was ich über DDD gelernt habe](https://jax.de/software-architecture/20-jahre-domain-driven-design/) at [JAX](https://jax.de/) |
