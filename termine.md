@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                   |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2025-04-08 - 10 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Karlsruhe                                                                   |
 | 2025-05-05 9-17 | [Workshop: Wir bauen eine Software-Architektur!](https://jax.de/software-architecture/workshop-software-architektur-bauen) bei der [JAX](https://jax.de/) |
 | 2025-05-06 15:30 | [20 Jahre Domain-Driven Design: was ich über DDD gelernt habe](https://jax.de/software-architecture/20-jahre-domain-driven-design/) bei der [JAX](https://jax.de/) |
 | 2025-05-06 20:30 | [30 Jahre Java – Innovation durch Zusammenarbeit](https://jax.de/core-java-jvm-languages/30-jahre-java-rueckblick-zukunft/) bei der [JAX](https://jax.de/) |
