@@ -23,6 +23,18 @@ function decryptEmail(encoded) {
 Oder schicke eine
 <a href="javascript:decryptEmail('ZWJlcmhhcmQud29sZmZAc3dhZ2xhYi5yb2Nrcw==');">EMail</a>.
 
+## Über mich
+
+Eberhard Wolff ist Head of Architecture bei SWAGLab und arbeitet seit
+mehr als zwanzig Jahren als Architekt und Berater, oft an der
+Schnittstelle zwischen Geschäft und Technologie. Er ist Autor
+zahlreicher Artikel und Bücher, trägt regelmäßig als Sprecher auf
+internationalen Konferenzen vor und streamt wöchentlich zum Thema
+Software-Architektur. Sein technologischer Schwerpunkt sind moderne
+Architektur- und Entwicklungsansätze wie Cloud, Domain-driven Design
+und Microservices.
+
+
 ## Arbeit
 
 Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
