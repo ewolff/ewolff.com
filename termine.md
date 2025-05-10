@@ -5,11 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                   |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-05-05 9-17 | [Workshop: Wir bauen eine Software-Architektur!](https://jax.de/software-architecture/workshop-software-architektur-bauen) bei der [JAX](https://jax.de/) |
-| 2025-05-06 15:30 | [20 Jahre Domain-Driven Design: was ich über DDD gelernt habe](https://jax.de/software-architecture/20-jahre-domain-driven-design/) bei der [JAX](https://jax.de/) |
-| 2025-05-06 20:30 | [30 Jahre Java – Innovation durch Zusammenarbeit](https://jax.de/core-java-jvm-languages/30-jahre-java-rueckblick-zukunft/) bei der [JAX](https://jax.de/) |
-| 2025-05-07 10:15 | [Softwarearchitektur: Muss das sein?](https://jax.de/software-architecture/software-architektur-muss-sein/) bei der [JAX](https://jax.de/) |
-| 2025-05-09 9-17 | [Architektur-Workshop: Team Topologies, Soziotechnik und mehr, ganz praktisch](https://jax.de/software-architecture/soziotechnischer-architektur-workshop/) bei der [JAX](https://jax.de/) |
 | 2025-05-14 14:30 | [Can We Measure Developer Productivity?](https://schedule.jcon.one/session/779649) bei der [JCON](https://2025.europe.jcon.one/) |
 | 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in München |
 |  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
