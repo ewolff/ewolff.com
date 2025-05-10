@@ -6,6 +6,7 @@ title: Schedule
 |-----------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2025-05-14 14:30 | [Can We Measure Developer Productivity?](https://schedule.jcon.one/session/779649) at [JCON](https://2025.europe.jcon.one/) |
 | 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in Munich |
+| 2025-06-03 9:15 | Legacy Software - Nur scheinbar ein Problem at [techcamp Hamburg](https://techcamp.hamburg/programm-2025/) |
 |  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 | 2025-06-30 14:30 | [Domain-driven Design: Zwischen Event Storming, Bounded Context und Team Topologies die richtige Technik finden](https://mad-summit.de/domain-driven-design/domain-driven-design-die-richtige-technik-finden/) at [MAD Summit](https://mad-summit.de/) |
 | 2025-07-01 18:00 | [Can We Measure Developer Productivity?](https://www.developer-week.de/programm/#/talk/konnen-wir-entwicklerinnen-produktivitat-messen) at [Developer Week](https://www.developer-week.de/) |
