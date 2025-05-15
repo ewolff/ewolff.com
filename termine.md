@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                   |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-05-14 14:30 | [Can We Measure Developer Productivity?](https://schedule.jcon.one/session/779649) bei der [JCON](https://2025.europe.jcon.one/) |
 | 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in München |
 | 2025-06-03 9:15 | Legacy Software - Nur scheinbar ein Problem beim [techcamp Hamburg](https://techcamp.hamburg/programm-2025/) |
 |  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
