@@ -11,6 +11,7 @@ title: Schedule
 | 2025-07-01 18:00 | [Can We Measure Developer Productivity?](https://www.developer-week.de/programm/#/talk/konnen-wir-entwicklerinnen-produktivitat-messen) at [Developer Week](https://www.developer-week.de/) |
 |  2025-07-22 - 24 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 | 2025-07-29 / 30 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) online |
+| 2025-09-16 | Closing Keynote at [Java Forum Nord](https://javaforumnord.de/2025/) |
 |  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 | 2025-12-08 - 11 | [Microservices – macht man das noch so? ](https://www.ittage.informatik-aktuell.de/programm/2025/microservices-macht-man-das-noch-so.html) at IT Tage |
 |  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
