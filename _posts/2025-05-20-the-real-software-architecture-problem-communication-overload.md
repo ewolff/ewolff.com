@@ -1,5 +1,5 @@
 ---
-title: Controlling the Flow of Information - The Main Socio-Technical Software Architecture Problem?
+title: The Real Software Architecture Problem: Communication Overload
 layout: blog
 description: The distribution of information plays a central role in software development — there's a reason why so many people spend so much time in meetings. In fact, controlling the flow of information is a key challenge in software development — especially when it comes to limiting communication.
 tags:
