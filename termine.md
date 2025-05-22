@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                   |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-05-20/21 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) in München |
 | 2025-06-03 9:15 | Legacy Software - Nur scheinbar ein Problem beim [techcamp Hamburg](https://techcamp.hamburg/programm-2025/) |
 |  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
 | 2025-06-30 14:30 | [Domain-driven Design: Zwischen Event Storming, Bounded Context und Team Topologies die richtige Technik finden](https://mad-summit.de/domain-driven-design/domain-driven-design-die-richtige-technik-finden/) beim [MAD Summit](https://mad-summit.de/) |
