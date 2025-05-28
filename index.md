@@ -56,6 +56,7 @@ Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
 
 ## Social Media und Profile im Web
 
+  * [Wikipedia](https://de.wikipedia.org/wiki/Eberhard_Wolff_(Software-Architekt))
   * [LinkedIn](https://www.linkedin.com/in/eberhardwolff/)
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
   * [Github](https://github.com/ewolff)
