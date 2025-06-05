@@ -20,8 +20,8 @@ eberhard punkt wolff at posteo dot net.
 
 # Präsentationen
 
- * [Slideshare](http://www.slideshare.net/ewolff/presentations)
  * [Speakerdeck](https://speakerdeck.com/ewolff)
+ * [Slideshare](http://www.slideshare.net/ewolff/presentations) (veraltet)
  * [Prezi](https://prezi.com/user/ewolff/)
  * [Playlist: Englische Vorträge](https://www.youtube.com/playlist?list=PLeXlULyOtEndP47qFtSoVevPoZ2D1h55X)
  * [Playlist: Deutsche Vorträge](https://www.youtube.com/playlist?list=PLeXlULyOtEnc90Ix0WwT1YPPnQKeGy4CP)

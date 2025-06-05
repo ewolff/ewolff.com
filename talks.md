@@ -18,8 +18,8 @@ posteo dot net for more information.
 
 ## Presentations
 
- * [Slideshare](http://www.slideshare.net/ewolff/presentations)
  * [Speakerdeck](https://speakerdeck.com/ewolff)
+ * [Slideshare](http://www.slideshare.net/ewolff/presentations) (outdated)
  * [Prezi](https://prezi.com/user/ewolff/)
  * [Playlist: English Talks](https://www.youtube.com/playlist?list=PLeXlULyOtEndP47qFtSoVevPoZ2D1h55X)
  * [Playlist: German Talks](https://www.youtube.com/playlist?list=PLeXlULyOtEnc90Ix0WwT1YPPnQKeGy4CP)
