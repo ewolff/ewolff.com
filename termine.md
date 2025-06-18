@@ -14,6 +14,7 @@ layout: de
 | 2025-07-29 / 30 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) online |
 | 2025-09-16 | Closing Keynote beim [Java Forum Nord](https://javaforumnord.de/2025/) |
 | 2025-09-18 | Back to the Future? Was wir aus 30 Jahren Software-Architektur für morgen lernen beim [entwickler Summit](https://entwickler.de/entwickler-summit/) |
+| 2025-10-13 10:00 | Software-Architekturen im Fokus: Analyse von Projekten bekannter Unternehmen beim [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025) |
 |  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 | 2025-12-08 - 11 | [Microservices – macht man das noch so? ](https://www.ittage.informatik-aktuell.de/programm/2025/microservices-macht-man-das-noch-so.html) bei den IT Tagen |
 |  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
