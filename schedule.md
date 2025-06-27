@@ -15,6 +15,8 @@ title: Schedule
 | 2025-10-13 10:00 | Software-Architekturen im Fokus: Analyse von Projekten bekannter Unternehmen at [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025) |
 |  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 | 2025-12-08 - 11 | [Microservices – macht man das noch so? ](https://www.ittage.informatik-aktuell.de/programm/2025/microservices-macht-man-das-noch-so.html) at IT Tage |
+|  2025-12-01 - 03 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
 |  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online |
+|  2026-01-27 - 29 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
 
 And [Software Architektur im Stream](https://software-architektur.tv/).
