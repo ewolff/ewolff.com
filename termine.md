@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                   |
 |-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2025-06-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                      |
 | 2025-06-30 14:30 | [Domain-driven Design: Zwischen Event Storming, Bounded Context und Team Topologies die richtige Technik finden](https://mad-summit.de/domain-driven-design/domain-driven-design-die-richtige-technik-finden/) beim [MAD Summit](https://mad-summit.de/) |
 | 2025-07-01 18:00 | [Können wir Entwickler:innen-Produktivität messen?](https://www.developer-week.de/programm/#/talk/konnen-wir-entwicklerinnen-produktivitat-messen) bei der [Developer Week](https://www.developer-week.de/) |
 | 2025-07-07 | [Agile Nacht Stuttgart](https://www.mitblick.de/agile-nacht-stuttgart/) |
