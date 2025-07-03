@@ -82,6 +82,11 @@ Netzwerken und Microservices:
   mit Zipkin, sowie auch Resilienz mit Retry und Circuit Breaker.
   - [Englische Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-dapr/blob/master/HOW-TO-RUN.md)
 
+* [Spring](https://github.com/ewolff/microservice-spring) extends the
+  erweitert das oben genannte Atom-Beispiel und nutzt Micrometer.io
+  für Tracing und Metriken sowie Resilience4J für Resilience.
+  - [Englische Anleitung zum Starten des Beispiels](https://github.com/ewolff/microservice-spring/blob/main/HOW-TO-RUN.md)
+
 ## UI Integration
 
 Die Integration über die Benutzeroberfläche (UI) ermöglicht eine sehr

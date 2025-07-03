@@ -75,6 +75,11 @@ systems to send messages to one another.
   and circuit breaker.
   - [How to run](https://github.com/ewolff/microservice-dapr/blob/master/HOW-TO-RUN.md)
 
+* [Spring](https://github.com/ewolff/microservice-spring) extends the
+  Atom example above and uses Micrometer.io for tracing and metrics
+  and Resilience4J for resilience.
+  - [How to run](https://github.com/ewolff/microservice-spring/blob/main/HOW-TO-RUN.md)
+
 ## UI Integration
 
 UI integration provides very loose coupling:
