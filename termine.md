@@ -5,8 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2025-07-22 - 24 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
-|  2025-07-29 / 30 | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) online                                                                                                             |
 |       2025-09-16 | Closing Keynote beim [Java Forum Nord](https://javaforumnord.de/2025/)                                                                                                                                      |
 |       2025-09-18 | Back to the Future? Was wir aus 30 Jahren Software-Architektur für morgen lernen beim [entwickler Summit](https://entwickler.de/entwickler-summit/)                                                         |
 |  2025-10-08 9:00 | 20 Jahre Domain-driven Design: Was ich über DDD gelernt habe bei der [BED-Con](https://bed-con.org/)                                                                                                        |
