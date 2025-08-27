@@ -70,7 +70,7 @@ These models are not informal. They are clearly formal enough to be
 executed as tests — just like code.
 
 It is not uncommon for domain experts to work with formal
-languages. Machine operator program CNC machines. Office workers use
+languages. Machine operators program CNC machines. Office workers use
 Excel, often with complex macros. BPMN (Business Process Model and
 Notation) can also be used by domain experts. Business processes are
 modeled in this formal language and thus made executable by
