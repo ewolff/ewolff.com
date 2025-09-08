@@ -2,6 +2,12 @@
 title: Book Me!
 ---
 
+<center>
+<img
+	src="images/talk.jpg"
+	alt="Eberhard Wolff giving a talk"/>
+</center>
+
 For many years I have been consulting software projects and giving
 trainings, talks, and keynotes – and I’m always happy to receive
 inquiries. 

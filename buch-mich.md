@@ -3,6 +3,12 @@ title: Buch mich!
 layout: de
 ---
 
+<center>
+<img
+	src="images/talk.jpg"
+	alt="Eberhard Wolff bei einer Präsentation"/>
+</center>
+
 Seit vielen Jahren berate ich Software-Projekte und halte Training,
 Vorträge und Keynotes - und freue mich über entsprechende Anfragen.
 
