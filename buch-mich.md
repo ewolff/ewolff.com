@@ -9,15 +9,16 @@ layout: de
 	alt="Eberhard Wolff bei einer Präsentation"/>
 </center>
 
-Seit vielen Jahren berate ich Software-Projekte und halte Training,
-Vorträge und Keynotes - und freue mich über entsprechende Anfragen.
+Seit vielen Jahren berate ich Software-Projekte und halte Trainings,
+Vorträge und Keynotes. Ich freue mich über Anfragen – gerne auch für
+ein Gespräch zum Kennenlernen.
 
 ## Lust auf einen unverbindlich Kaffee?
 
 Buche einfach einen
 [Termin](https://calendly.com/eberhard-wolff-swaglab/) für ein
 virtuelles Kaffeetrinken. In einem Zoom- oder Teams-Call können wir
-uns kennenlernen und eine Zusammenarbeit entspannt
+erste Ideen für eine Zusammenarbeit
 besprechen.
 
 <script>
@@ -27,10 +28,10 @@ function decryptEmail(encoded) {
 }
 </script>
  
-Sonst stehe ich auch gerne per
+Natürlich kannst du mir auch gerne eine 
 <a
 href="javascript:decryptEmail('ZWJlcmhhcmQud29sZmZAc3dhZ2xhYi5yb2Nrcw==');">EMail</a>
-zur Verfügung.
+schreiben,
 
 ## Beratung für Software-Projekte
 
@@ -39,21 +40,21 @@ Ich unterstütze Software-Projekte mit verschiedenen Formaten:
 - **Workshop**: In einem Workshop beantworte ich Fragen zu Architektur
 und Software-Entwicklung. Solche Sessions dauern in der Regel einen
 halben oder ganzen Tag und finden meist remote statt. Zur Vorbereitung
-sind alle Arten von Projektdokumenten hilfreich. Auf Wunsch kann ich
-die Ergebnisse zusammenfassen und in einem separaten Termin
-präsentieren, um den Nutzen des Reviews zusätzlich zu steigern.
+sind alle Arten von Projektdokumenten hilfreich. Auf Wunsch fasse ich
+die Ergebnisse zusammen und präsentiere sie in einem separaten Termin,
+um den Nutzen des Reviews zusätzlich zu steigern.
 
 - **Review**: Bei einem Review analysiere ich ein Projekt oder eine
   Architektur im Detail. Dazu gehören Interviews mit Beteiligten und
-  Stakeholdern sowie der Abgleich mit Ergebnissen anderer
+  Stakeholdern sowie der Abgleich mit Ergebnissen detaillierter
   Analysen. Das Resultat ist ein Bericht mit konkreten
   Handlungsempfehlungen.
   
 - **Dauerhafte Begleitung**: Projekte und Architekturen müssen
-  konstant weiterentwickelt werden. Was liegt näher, als ein Projekte
-  dauerhaft zu begleiten? Oft reicht schon ein geringer Zeitaufwand,
-  um durch eine externe Perspektive das Projekt dauerhaft besser
-  aufzustellen.
+  konstant weiterentwickelt werden. Deshalb biete ich an, ein Projekt
+  auch dauerhaft zu begleiten. Schon mit vergleichsweise geringem
+  Zeitaufwand kann eine externe Perspektive helfen, das Projekt
+  langfristig besser aufzustellen.
 
 ## Vorträge und Keynotes
 
