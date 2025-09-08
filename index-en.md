@@ -10,11 +10,8 @@ title: Eberhard Wolff
 
 Software Architecture. Technology. Learning every day.
 
-## Work
-
-Head of Architecture at [SWAGLab](https://swaglab.rocks/)
-
-I would be more to drink a [virtual coffee with you online](https://calendly.com/eberhard-wolff-swaglab/).
+I would be more than happy to drink a [virtual coffee with you
+online](https://calendly.com/eberhard-wolff-swaglab/).
 
 <script>
 function decryptEmail(encoded) {
@@ -28,15 +25,15 @@ Or send an
 
 ## About Me
 
-Eberhard Wolff has 20+ years of experience as an architect and
-consultant - often on the intersection of business and technology. He
-is the Head of Architecture at SWAGLab in Germany. As a speaker, he
-has given talks at international conferences and as an author, he has
-written more than 100 articles and books e.g. about Microservices and
-Continuous Delivery. His technological focus is on modern
-architectures – often involving Cloud, Domain-driven Design, DevOps,
-or Microservices.
-
+Eberhard Wolff is Head of Architecture and co-owner at
+[SWAGLab](https://swaglab.rocks/). He has 20+ years of experience as
+an architect and consultant - often on the intersection of business
+and technology. He is the Head of Architecture at SWAGLab in
+Germany. As a speaker, he has given talks at international conferences
+and as an author, he has written more than 100 articles and books
+e.g. about Microservices and Continuous Delivery. His technological
+focus is on modern architectures – often involving Cloud,
+Domain-driven Design, DevOps, or Microservices.
 
 ## Trainings
 

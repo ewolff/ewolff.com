@@ -25,7 +25,8 @@ Oder schicke eine
 
 ## Über mich
 
-Eberhard Wolff ist Head of Architecture bei SWAGLab und arbeitet seit
+Eberhard Wolff ist Head of Architecture und Gesellschafter bei
+[SWAGLab](https://swaglab.rocks/) und arbeitet seit
 mehr als zwanzig Jahren als Architekt und Berater, oft an der
 Schnittstelle zwischen Geschäft und Technologie. Er ist Autor
 zahlreicher Artikel und Bücher, trägt regelmäßig als Sprecher auf
@@ -33,11 +34,6 @@ internationalen Konferenzen vor und streamt wöchentlich zum Thema
 Software-Architektur. Sein technologischer Schwerpunkt sind moderne
 Architektur- und Entwicklungsansätze wie Cloud, Domain-driven Design
 und Microservices.
-
-
-## Arbeit
-
-Head of Architecture bei [SWAGLab](https://swaglab.rocks/)
 
 ## Trainings
 
