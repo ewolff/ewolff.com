@@ -16,7 +16,7 @@ inquiries.
 
 Simply book [a slot](https://calendly.com/eberhard-wolff-swaglab/) for
 a virtual coffee. In a Zoom or Teams call we can get to know each
-other and discuss potential collaboration in a relaxed way.
+other and discuss a potential collaboration.
 
 <script>
 function decryptEmail(encoded) {
@@ -32,34 +32,33 @@ href="javascript:decryptEmail('ZWJlcmhhcmQud29sZmZAc3dhZ2xhYi5yb2Nrcw==');">emai
 
 I support software projects in various formats:
 
-- **Workshop**: In a workshop I answer questions about architecture
-  and software development. Such sessions usually last half a day or a
-  full day and are typically held remotely. Any kind of project
-  documentation is helpful for preparation. On request, I can
+- **Workshop**: In a workshop, I answer questions about software
+  architecture and software development. These sessions typically last
+  half a day or a full day and are usually held remotely. Any kind of
+  project documentation is helpful for preparation. On request, I can
   summarize and present the results in a separate session to increase
   the value of the workshop.
 
-- **Review**: In a review I examine a project or an architecture in
+- **Review**: In a review, I examine a project or an architecture in
   detail. An important part of this process includes interviews with
   team members and stakeholders. The findings are compared with
-  results from other analyses. The outcome is a clear report with
-  concrete recommendations for action.
+  results from detailed analyses. The outcome is a concise report with
+  actionable recommendations.
 
 - **Ongoing Support**: Projects and architectures need continuous
-  evolution. What could be more effective than accompanying a project
-  in the long run? Often, even a small amount of regular external
-  input is enough to sustainably improve a project.
+  evolution. What could be more effective than long term guidance?
+  Even a small amount of regular external input can help to
+  sustainably improve a project.
 
 ## Talks and Keynotes
 
-For 25 years I have been speaking at conferences – by now I did more
-than 500 talks. I have delivered keynotes at events such as the
+I have been speaking at conferences for over 25 years – by now, I
+delivered more than 500 talks. My keynotes include events such as the
 IT-Tage, XP Days, the Software Architecture Summit, berlin.jar, as
-well as many in-house company events. In addition, I regularly
-[stream](https://software-architektur.tv) on software architecture
-topics.
+well as numerous in-house company events. In addition, I regularly
+[stream](https://software-architektur.tv) on topics related to
+software architecture.
 
-I am also happy to give talks or keynotes at meetups or in-house
-company events, with topics agreed upon individually. Some possible
-topics can be found in my [schedule](/schedule.html) and past
-[talks](/talks.html).
+I am also happy to speak at meetups or company events, with topics
+tailored to your needs. You can find possible topics in my
+[schedule](/schedule.html) and past [talks](/talks.html).
