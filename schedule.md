@@ -4,8 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       2025-09-16 | Closing Keynote at [Java Forum Nord](https://javaforumnord.de/2025/)                                                                                                                          |
-|       2025-09-18 | Back to the Future? Was wir aus 30 Jahren Software-Architektur für morgen lernen at [entwickler Summit](https://entwickler.de/entwickler-summit/)                                             |
 |  2025-10-08 9:00 | 20 Jahre Domain-driven Design: Was ich über DDD gelernt habe at [BED-Con](https://bed-con.org/)                                                                                          |
 | 2025-10-08 16:20 | Microservices – macht man das noch so? at [BED-Con](https://bed-con.org/)                 |
 | 2025-10-13 9:00 | Keynote: KI: Sind Architekt:innen bald überflüssig? at [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025)               |
