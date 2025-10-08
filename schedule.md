@@ -4,8 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2025-10-08 9:00 | 20 Jahre Domain-driven Design: Was ich über DDD gelernt habe at [BED-Con](https://bed-con.org/)                                                                                          |
-| 2025-10-08 16:20 | Microservices – macht man das noch so? at [BED-Con](https://bed-con.org/)                 |
 | 2025-10-13 9:00 | Keynote: KI: Sind Architekt:innen bald überflüssig? at [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025)               |
 | 2025-10-13 10:00 | Software-Architekturen im Fokus: Analyse von Projekten bekannter Unternehmen at [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025)   |
 |  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                           |
