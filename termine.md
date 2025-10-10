@@ -18,7 +18,7 @@ layout: de
 |  2025-12-01 - 03 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
 |  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
 |  2026-01-27 - 29 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
-| 2026-02-13 13:30 | Team und Software: Als Architekt:in Wirkung entfalten bei der [OOP](https://www.oop-konferenz.de/) |
+| 2026-02-13 13:30 | [Team und Software: Als Architekt:in Wirkung entfalten](https://www.oop-konferenz.de/de/programm/konferenzprogramm/speaker/sprecherdetails/eberhard-eberhard) bei der [OOP](https://www.oop-konferenz.de/) |
 
 Und natürlich [Software Architektur im
 Stream](https://software-architektur.tv/).
