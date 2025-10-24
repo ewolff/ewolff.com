@@ -5,9 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-10-13 9:00 | Keynote: KI: Sind Architekt:innen bald überflüssig? beim [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025)               |
-| 2025-10-13 10:00 | Software-Architekturen im Fokus: Analyse von Projekten bekannter Unternehmen beim [Software Architecture Summit](https://entwickler.de/conferences/software-architecture-summit-oktober-2025)               |
-|  2025-10-14 - 16 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
 |  2025-11-03 9:00 | [Modularisierung oder Microservices? Ein Workshop für Fortgeschrittene](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) bei der [WJAX](https://jax.de/muenchen/)                     |
 | 2025-11-04 10:30 | [Softwarearchitektur: Muss das sein?](https://jax.de/software-architecture/software-architektur-muss-sein/) bei der [WJAX](https://jax.de/muenchen/)                                                        |
 |  2025-11-06 9:00 | [KI: Ein Werkzeug für Architektur?](https://jax.de/software-architecture/ki-werkzeug-architektur/) bei der [WJAX](https://jax.de/muenchen/)                                                                 |
