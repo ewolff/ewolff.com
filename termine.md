@@ -5,11 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2025-11-03 9:00 | [Modularisierung oder Microservices? Ein Workshop für Fortgeschrittene](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) bei der [WJAX](https://jax.de/muenchen/)                     |
-| 2025-11-04 10:30 | [Softwarearchitektur: Muss das sein?](https://jax.de/software-architecture/software-architektur-muss-sein/) bei der [WJAX](https://jax.de/muenchen/)                                                        |
-|  2025-11-06 9:00 | [KI: Ein Werkzeug für Architektur?](https://jax.de/software-architecture/ki-werkzeug-architektur/) bei der [WJAX](https://jax.de/muenchen/)                                                                 |
-|  2025-11-06 14:15 | [Keynote AI in Software Architecture: Chancen, Grenzen, Verantwortung](https://jax.de/software-architecture/keynote-panel-ai-software-architektur/) bei der [WJAX](https://jax.de/muenchen/)               |
-|  2025-11-07 9:00 | [Workshop: Architektur für Menschen – DDD, Team Topologies und Soziotechnik](https://jax.de/software-architecture/soziotechnischer-architektur-workshop/) bei der [WJAX](https://jax.de/muenchen/)          |
 | 2025-11-24 18:15 | [Keynote: Migration zu Microservices - Macht man das noch so?](https://mad-summit.de/architektur/migration-zu-microservices-macht-man-das-noch-so/) beim [MAD Summit](https://mad-summit.de/) |
 | 2025-11-25 10:15 | [Models vs Bounded Contexts for Domain Modularization](https://conferences.isaqb.org/software-architecture-gathering/session/models-vs-bounded-contexts-for-domain-modularization/) beim [Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/) |
 |  2025-12-06 / 07 | [Tech Stream Conference](https://test-conf.de/) bei Twitch / YouTube  |
