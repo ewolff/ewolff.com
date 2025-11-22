@@ -11,6 +11,7 @@ layout: de
 |  2025-12-09 9:00 | [Microservices – macht man das noch so? ](https://www.ittage.informatik-aktuell.de/programm/2025/microservices-macht-man-das-noch-so.html) bei den IT Tagen                                                 |
 |  2025-12-01 - 03 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
 |  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
+| 2026-01-12 (start) | [Software Architektur Kickstart](https://www.socreatory.com/de/trainings/arch-kickstart) online | 
 |  2026-01-27 - 29 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
 | 2026-02-13 13:30 | [Team und Software: Als Architekt:in Wirkung entfalten](https://www.oop-konferenz.de/de/programm/konferenzprogramm/speaker/sprecherdetails/eberhard-eberhard) bei der [OOP](https://www.oop-konferenz.de/) |
 | 2026-05-04 9-17 | [Lehren aus 10 Jahre Microservices: Fortgeschrittene Architektur auch für Monolithen](https://jax.de/microservices-modularisierung/microservices-workshop-fortgeschrittene) bei der [JAX](https://jax.de/) | 
