@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2025-11-24 18:15 | [Keynote: Migration zu Microservices - Macht man das noch so?](https://mad-summit.de/architektur/migration-zu-microservices-macht-man-das-noch-so/) beim [MAD Summit](https://mad-summit.de/) |
 | 2025-11-25 10:15 | [Models vs Bounded Contexts for Domain Modularization](https://conferences.isaqb.org/software-architecture-gathering/session/models-vs-bounded-contexts-for-domain-modularization/) beim [Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/) |
 |  2025-12-06 / 07 | [Tech Stream Conference](https://test-conf.de/) bei Twitch / YouTube  |
 |  2025-12-09 9:00 | [Microservices – macht man das noch so? ](https://www.ittage.informatik-aktuell.de/programm/2025/microservices-macht-man-das-noch-so.html) bei den IT Tagen                                                 |
