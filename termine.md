@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2025-12-06 / 07 | [Tech Stream Conference](https://test-conf.de/) bei Twitch / YouTube  |
 |  2025-12-09 9:00 | [Microservices – macht man das noch so? ](https://www.ittage.informatik-aktuell.de/programm/2025/microservices-macht-man-das-noch-so.html) bei den IT Tagen                                                 |
 |  2025-12-01 - 03 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
 |  2025-12-16 - 18 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                                         |
