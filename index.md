@@ -11,7 +11,7 @@ layout: de
 
 Software Architecture. Technology. Learning every day.
 
-Trinke gerne [einen virtuellen Kaffee ☕👋 mit mir](https://calendly.com/eberhard-wolff-swaglab/)!
+Trinke gerne [einen virtuellen Kaffee ☕👋 mit mir](https://swaglab.rocks/virtueller-kaffee/eberhard/)!
 
 <script>
 function decryptEmail(encoded) {

@@ -16,7 +16,7 @@ ein Gespräch zum Kennenlernen.
 ## Lust auf einen unverbindlich Kaffee?
 
 Buche einfach einen
-[Termin](https://calendly.com/eberhard-wolff-swaglab/) für ein
+[Termin](https://swaglab.rocks/virtueller-kaffee/eberhard/) für ein
 virtuelles Kaffeetrinken. In einem Zoom- oder Teams-Call können wir
 erste Ideen für eine Zusammenarbeit
 besprechen.

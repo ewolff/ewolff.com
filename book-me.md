@@ -14,7 +14,7 @@ inquiries.
 
 ## Fancy a casual coffee chat?
 
-Simply book [a slot](https://calendly.com/eberhard-wolff-swaglab/) for
+Simply book [a slot](https://swaglab.rocks/virtueller-kaffee/eberhard/) for
 a virtual coffee. In a Zoom or Teams call we can get to know each
 other and discuss a potential collaboration.
 
