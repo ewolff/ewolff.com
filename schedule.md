@@ -7,6 +7,7 @@ title: Schedule
 | 2026-01-12 (start) | [Software Architektur Kickstart](https://www.socreatory.com/en/trainings/arch-kickstart) online | 
 |  2026-01-27 - 29 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) online                                                                                           |
 | 2026-02-13 15:30 | [Team und Software: Als Architekt:in Wirkung entfalten](https://www.oop-konferenz.de/de/programm/konferenzprogramm/details/fr-24)  at [OOP conference](https://www.oop-konferenz.de/) |
+| 2026-03-09 14:30 | [Architekt:in mit Wirkung – Rollenverständnis jenseits der Technik](https://software-architecture-summit.de/softwarearchitecture/architektin-mit-wirkung-rollenverstaendnis-jenseits-der-technik/) at [Software Architecture Summit](https://software-architecture-summit.de/) |
 | 2026-03-10 17:30 | [Sociotechnical Architecture Reviews: Understanding Teams, Not Just Artefacts](https://www.agile-meets-architecture.com/sessions/sociotechnical-architecture-reviews-understanding-teams-not-just-artefacts) at [Agile meets Architecture](https://www.agile-meets-architecture.com/) |
 | 2026-03-13 10:00 | [KI: Ein Werkzeug für Architektur?](https://meine.doag.org/events/devland/2026/agenda/#agendaId.7017) at [DevLand](https://www.devland.eu/de/#c63116)|
 | 2026-03-24 | [Team and Software: Making an Impact as an Architect](https://vdz26.voxxeddays.ch/talk/?id=2546) at [Voxxed Days Zürich](https://vdz26.voxxeddays.ch/) |
