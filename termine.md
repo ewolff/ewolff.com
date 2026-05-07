@@ -16,6 +16,7 @@ layout: de
 | 2026-06-26 10:00 | [System-Schnitt in der Praxis: Bounded Context, Team Topologies und Legacy-Integration](https://mad-summit.de/software-design-patterns/system-schnitt-in-der-praxis-bounded-context-team-topologies-und-legacy-integration/) beim [MAD Summit](https://mad-summit.de/) |
 | 2026-06-30 11:45 | KI: Ein Werkzeug für Architektur? bei der [DWX](https://www.developer-world.de/dwx/dwx-programm) |
 | 2026-09-17 | Menschen und KI im Feedback-Loop der Softwareentwicklung beim [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) |
+| 2026-09-25 14:05 | [KI statt Architekt:in – wirklich?](https://jugsaxony.org/day/programm/details/304) beim [JUG Saxony Day](https://jugsaxony.org/day/) |
 |  2026-09-29 - 2026-10-01 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Hannover                                              |
 
 Und natürlich [Software Architektur im
