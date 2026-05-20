@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-05-19 11:15 | [Architektur Reviews – Architektur verstehen heißt Teams verstehen](https://www.md-devdays.de/act-details/1000817) at [MD-DevDays](https://www.md-devdays.de/) |
 | 2026-06-16 13:30 | [Flexible Architekturen – nur wie?](https://conferences.isaqb.org/software-architecture-forum/session/flexible-architekturen-nur-wie/) at [iSAQB Software Architecture Forum](https://conferences.isaqb.org/software-architecture-forum/) |
 | 2026-06-16 17:15 | [Fishbowl: Lernen & LLMs – Was und Wie wollen wir lernen, wenn sich alles ändert?](https://conferences.isaqb.org/software-architecture-forum/session/fish-bowl/) at [iSAQB Software Architecture Forum](https://conferences.isaqb.org/software-architecture-forum/) |
 | 2026-06-18 10:45 | Business first! Software strategisch gestalten mit Domain-driven Design at [Tech Riders Summit](https://tech-riders.de/) |
