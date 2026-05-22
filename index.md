@@ -57,7 +57,7 @@ und Microservices.
   * [Xing](https://www.xing.com/profile/Eberhard_Wolff)
   * [GitHub](https://github.com/ewolff)
   * [Goodreads](https://goodreads.com/author/show/111923.Eberhard_Wolff)
-  * [Googlr Scholar](https://scholar.google.de/citations?user=cXG6_BQAAAAJ)
+  * [Google Scholar](https://scholar.google.de/citations?user=cXG6_BQAAAAJ)
   * [Sessionize](https://sessionize.com/EberhardWolff/)
   * [Socreatory](https://www.socreatory.com/de/trainers/eberhard-wolff)
   * <a rel="me" href="https://mastodon.social/@ewolff">Mastodon</a>
