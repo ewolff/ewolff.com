@@ -9,6 +9,7 @@ title: Schedule
 | 2026-09-17 | Menschen und KI im Feedback-Loop der Softwareentwicklung at [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) |
 | 2026-09-25 14:05 | [KI statt Architekt:in – wirklich?](https://jugsaxony.org/day/programm/details/304) at [JUG Saxony Day](https://jugsaxony.org/day/) |
 |  2026-09-29 - 2026-10-01 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Hannover                                              |
+| 2026-10-14 11:40 | Domain Boundaries: Bounded Contexts Are Not Enough at [KanDDDinsky](https://kandddinsky.de/) |
 | 2026-11-02 9-17 | [Workshop für fortgeschrittene Architektur: Lehren aus 10 Jahren Microservices – auch für Monolithen](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) at [WJAX](https://jax.de/muenchen/) |
 | 2026-11-03-05  | [Der richtige fachliche Schnitt: Wege zu besseren Architektur](https://jax.de/software-architecture/fachlicher-schnitt-ddd-architektur) at [WJAX](https://jax.de/muenchen/) |
 | 2026-11-03-05  | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://jax.de/enterprise-ai/menschen-ki-feedback-loop-softwareentwicklung) at [WJAX](https://jax.de/muenchen/) |
