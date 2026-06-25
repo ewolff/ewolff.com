@@ -12,8 +12,8 @@ layout: de
 |  2026-09-29 - 2026-10-01 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Hannover |
 | 2026-10-14 11:40 | Domain Boundaries: Bounded Contexts Are Not Enough bei der [KanDDDinsky](https://kandddinsky.de/) |
 | 2026-11-02 9-17 | [Workshop für fortgeschrittene Architektur: Lehren aus 10 Jahren Microservices – auch für Monolithen](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) bei der [WJAX](https://jax.de/muenchen/) |
-| 2026-11-03-05  | [Der richtige fachliche Schnitt: Wege zu besseren Architektur](https://jax.de/software-architecture/fachlicher-schnitt-ddd-architektur) bei der [WJAX](https://jax.de/muenchen/) |
-| 2026-11-03-05  | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://jax.de/enterprise-ai/menschen-ki-feedback-loop-softwareentwicklung) bei der [WJAX](https://jax.de/muenchen/) |
+| 2026-11-04 11:45  | [Der richtige fachliche Schnitt: Wege zu besseren Architektur](https://jax.de/software-architecture/fachlicher-schnitt-ddd-architektur) bei der [WJAX](https://jax.de/muenchen/) |
+| 2026-11-05 9:00  | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://jax.de/enterprise-ai/menschen-ki-feedback-loop-softwareentwicklung) bei der [WJAX](https://jax.de/muenchen/) |
 | 2026-11-06 9-16:30 | [Architekt:in sein – mehr als Technik](https://jax.de/software-architecture/mehr-als-technik-architektur-workshop/) bei der [WJAX](https://jax.de/muenchen/) |
 | 2026-12-07 - 10 | [KI statt Software-Architekt:in – wirklich?](https://www.ittage.informatik-aktuell.de/programm/2026/ki-statt-software-architektin-wirklich.html) bei den [IT Tagen](https://www.ittage.informatik-aktuell.de/) |
 | 2026-12-07 - 10 | [Der richtige fachliche Schnitt: Wege zu besseren Architekturen](https://www.ittage.informatik-aktuell.de/programm/2026/der-richtige-fachliche-schnitt-wege-zu-besseren-architekturen.html) bei den [IT Tagen](https://www.ittage.informatik-aktuell.de/) |
