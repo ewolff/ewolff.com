@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-06-30 11:45 | KI: Ein Werkzeug für Architektur? at [DWX](https://www.developer-world.de/dwx/dwx-programm) |
 | 2026-07-09 15:30 | Sociotechnical Architecture Reviews: Understanding Teams, Not Just Artefacts at [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress/) |
 | 2026-09-17 | Menschen und KI im Feedback-Loop der Softwareentwicklung at [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) |
 | 2026-09-25 14:05 | [KI statt Architekt:in – wirklich?](https://jugsaxony.org/day/programm/details/304) at [JUG Saxony Day](https://jugsaxony.org/day/) |
