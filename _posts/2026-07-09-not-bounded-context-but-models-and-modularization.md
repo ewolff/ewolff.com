@@ -14,7 +14,7 @@ sufficient. Inside a Bounded Context a Ubiquitous Language is defined
 project has its own language. And terms are often defined differently
 in different contexts.
 
-For example, during hotel check-in, the customer is the human check
+For example, during hotel check-in, the customer is the human checking
 in. However, when invoicing the same stay, for a business trip the
 customer might be the employer of the person checking in. This is a
 different customer and a company rather than a human. So check-in and
