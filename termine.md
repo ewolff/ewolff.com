@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-07-09 15:30 | Sociotechnical Architecture Reviews: Understanding Teams, Not Just Artefacts beim [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress/) |
 | 2026-09-17 | Menschen und KI im Feedback-Loop der Softwareentwicklung beim [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) |
 | 2026-09-25 14:05 | [KI statt Architekt:in – wirklich?](https://jugsaxony.org/day/programm/details/304) beim [JUG Saxony Day](https://jugsaxony.org/day/) |
 |  2026-09-29 - 2026-10-01 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Hannover |
