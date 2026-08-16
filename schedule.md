@@ -5,6 +5,7 @@ title: Schedule
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2026-09-17 13:45 | Menschen und KI im Feedback-Loop der Softwareentwicklung at [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) |
+| 2026-09-17 15:15 | Human & AI Building Great Software Together at [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) with Sebastian Bergmann (thePHP.cc) und Paul Dubs |
 | 2026-09-25 14:05 | [KI statt Architekt:in – wirklich?](https://jugsaxony.org/day/programm/details/304) at [JUG Saxony Day](https://jugsaxony.org/day/) |
 |  2026-09-29 - 2026-10-01 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Hannover                                              |
 | 2026-10-14 11:40 | Domain Boundaries: Bounded Contexts Are Not Enough at [KanDDDinsky](https://kandddinsky.de/) |
