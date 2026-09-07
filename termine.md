@@ -5,6 +5,7 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2026-09-10 | Architektur jenseite von Monolith vs. Microservice bei den [Workshop Tagen](https://workshoptage.ch/programm-2026/) |
 | 2026-09-17 13:45 | Menschen und KI im Feedback-Loop der Softwareentwicklung beim [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) |
 | 2026-09-17 15:15 | Human & AI Building Great Software Together beim [entwickler Summit 2026](https://entwickler.de/entwickler-summit/) mit Sebastian Bergmann (thePHP.cc) und Paul Dubs |
 | 2026-09-22 | Architektur Reviews – Architektur verstehen heißt Teams verstehen beim [Java Forum Nord](https://javaforumnord.de/2026/) |
