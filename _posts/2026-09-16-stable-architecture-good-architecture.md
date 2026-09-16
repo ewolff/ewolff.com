@@ -1,7 +1,7 @@
 ---
 title: "Stable Architecture – Good Architecture?"
 layout: blog
-description: "The term architecture itself, and the metaphor borrowed from the construction industry, convey a sense of stability. But in reality, stability is not achievable in software architecture – and striving for stability can even be harmful."
+description: "The term architecture, and the metaphor from the construction industry, convey a sense of stability. But in reality, stability is not achievable in software architecture – striving for stability can even be harmful."
 tags:
 - Stability
 ---
