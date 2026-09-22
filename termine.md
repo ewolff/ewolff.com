@@ -5,7 +5,6 @@ layout: de
 
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-09-22 16:00 | Architektur Reviews – Architektur verstehen heißt Teams verstehen beim [Java Forum Nord](https://javaforumnord.de/2026/) |
 | 2026-09-25 14:05 | [KI statt Architekt:in – wirklich?](https://jugsaxony.org/day/programm/details/304) beim [JUG Saxony Day](https://jugsaxony.org/day/) |
 |  2026-09-29 - 2026-10-01 | [FLEX - Flexible Architekturen iSAQB Training](https://www.socreatory.com/de/trainings/flex) Hannover |
 | 2026-10-14 11:40 | Domain Boundaries: Bounded Contexts Are Not Enough bei der [KanDDDinsky](https://kandddinsky.de/) |
