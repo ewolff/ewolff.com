@@ -16,6 +16,8 @@ layout: de
 | 2026-12-08 9:00 | [KI statt Software-Architekt:in – wirklich?](https://www.ittage.informatik-aktuell.de/programm/2026/ki-statt-software-architektin-wirklich.html) bei den [IT Tagen](https://www.ittage.informatik-aktuell.de/) |
 | 2026-12-08 19:15 | [Prompt oder Praxis - Wer hat's gesagt? Das KI-Quiz zu Fragen rund um Software-Architektur](https://www.ittage.informatik-aktuell.de/programm/2026/prompt-oder-praxis-wer-hats-gesagt-das-ki-quiz-zu-fragen-rund-um-software-architektur.html) mit Lisa Maria Schäfer and Ralf D. Müller bei den [IT Tagen](https://www.ittage.informatik-aktuell.de/) |
 | 2026-12-09 10:00 | [Der richtige fachliche Schnitt: Wege zu besseren Architekturen](https://www.ittage.informatik-aktuell.de/programm/2026/der-richtige-fachliche-schnitt-wege-zu-besseren-architekturen.html) bei den [IT Tagen](https://www.ittage.informatik-aktuell.de/) |
+| 2027-02-02 10:00 | [Kollaborative Modellierung auch jenseits von EventStorming – Architektur als Teamkompetenz](https://www.oop-konferenz.de/de/programm/konferenzprogramm/di-3-1) mit Tom Asel bei der [OOP](https://www.oop-konferenz.de) |
+| 2027-02-03 16:50 | [Der richtige fachliche Schnitt: Wege zu besseren Architekturen](https://www.oop-konferenz.de/de/programm/konferenzprogramm/mi-23-1) bei der [OOP](https://www.oop-konferenz.de) |
 
 
 
