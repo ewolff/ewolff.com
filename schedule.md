@@ -4,7 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-10-14 11:40 | Domain Boundaries: Bounded Contexts Are Not Enough at [KanDDDinsky](https://kandddinsky.de/) |
 | 2026-11-02 9-17 | [Workshop für fortgeschrittene Architektur: Lehren aus 10 Jahren Microservices – auch für Monolithen](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) at [WJAX](https://jax.de/muenchen/) |
 | 2026-11-04 11:45  | [Der richtige fachliche Schnitt: Wege zu besseren Architektur](https://jax.de/software-architecture/fachlicher-schnitt-ddd-architektur) at [WJAX](https://jax.de/muenchen/) |
 | 2026-11-05 9:00  | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://jax.de/enterprise-ai/menschen-ki-feedback-loop-softwareentwicklung) at [WJAX](https://jax.de/muenchen/) |
