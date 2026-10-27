@@ -6,6 +6,7 @@ layout: de
 |            Datum | Termin                                                                                                                                                                                                      |
 |-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2026-11-02 9-17 | [Workshop für fortgeschrittene Architektur: Lehren aus 10 Jahren Microservices – auch für Monolithen](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) bei der [WJAX](https://jax.de/muenchen/) |
+| 2026-11-04 10:15  | [W-JAX Together: der Architektur-Turing-Test](https://jax.de/software-architecture/jax-together-architektur-turing-test/) bei der [WJAX](https://jax.de/muenchen/) |
 | 2026-11-04 16:45  | [Der richtige fachliche Schnitt: Wege zu besseren Architektur](https://jax.de/software-architecture/fachlicher-schnitt-ddd-architektur) bei der [WJAX](https://jax.de/muenchen/) |
 | 2026-11-05 9:00  | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://jax.de/enterprise-ai/menschen-ki-feedback-loop-softwareentwicklung) bei der [WJAX](https://jax.de/muenchen/) |
 | 2026-11-06 9-16:30 | [Architekt:in sein – mehr als Technik](https://jax.de/software-architecture/mehr-als-technik-architektur-workshop/) bei der [WJAX](https://jax.de/muenchen/) |
