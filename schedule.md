@@ -4,11 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-11-02 9-17 | [Workshop für fortgeschrittene Architektur: Lehren aus 10 Jahren Microservices – auch für Monolithen](https://jax.de/microservices/microservices-workshop-fortgeschrittene/) at [WJAX](https://jax.de/muenchen/) |
-| 2026-11-04 10:15  | [W-JAX Together: der Architektur-Turing-Test](https://jax.de/software-architecture/jax-together-architektur-turing-test/) at [WJAX](https://jax.de/muenchen/) |
-| 2026-11-04 16:45  | [Der richtige fachliche Schnitt: Wege zu besseren Architektur](https://jax.de/software-architecture/fachlicher-schnitt-ddd-architektur) at [WJAX](https://jax.de/muenchen/) |
-| 2026-11-05 9:00  | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://jax.de/enterprise-ai/menschen-ki-feedback-loop-softwareentwicklung) at [WJAX](https://jax.de/muenchen/) |
-| 2026-11-06 9-16:30 | [Architekt:in sein – mehr als Technik](https://jax.de/software-architecture/mehr-als-technik-architektur-workshop/) at [WJAX](https://jax.de/muenchen/) |
 | 2026-11-17 16:15 | [Humans and AI in the Feedback Loop of Software Development](https://www.software-architecture-gathering.com/session/humans-and-ai-in-the-feedback-loop-of-software-development/) at [iSAQB Software Architecture Gathering](https://www.software-architecture-gathering.com/)|
 | 2026-11-18 16:05 | [smash IT – pack your NERD survival kit](https://www.digitale-leute.de/summit/26/schedule/smash-it-pack-your-nerd-survival-kit/#start) at [Digitale Leute Summit](https://www.digitale-leute.de/summit/) with Johannes Mainusch |
 | 2026-11-23 18:00 | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://www.meetup.com/devtalk-tk/events/316564208/) at TK-Meetup |
