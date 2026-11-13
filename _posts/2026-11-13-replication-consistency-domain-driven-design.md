@@ -237,6 +237,5 @@ actual redundancy often turns out to be quite small. Nevertheless,
 these solutions do not seem to be particularly popular, perhaps
 because of an irrational aversion to any kind of redundancy.
 
-
-
-
+*This is a translation of my [German article at Java
+Magazin](https://entwickler.de/reader/reading/java-magazin/11.2025/45641a26f3942fd3735e7853).*
