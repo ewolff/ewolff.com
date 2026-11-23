@@ -12,6 +12,7 @@ layout: de
 » 2027-01-19 - 21 | [iSAQB-Training Flexible Architekturen](https://www.socreatory.com/de/trainings/flex/events/9d95f11d73e0) online | 
 | 2027-02-02 10:00 | [Kollaborative Modellierung auch jenseits von EventStorming – Architektur als Teamkompetenz](https://www.oop-konferenz.de/de/programm/konferenzprogramm/di-3-1) mit Tom Asel bei der [OOP](https://www.oop-konferenz.de) |
 | 2027-02-03 16:50 | [Der richtige fachliche Schnitt: Wege zu besseren Architekturen](https://www.oop-konferenz.de/de/programm/konferenzprogramm/mi-23-1) bei der [OOP](https://www.oop-konferenz.de) |
+| 2027-02-23 13:00 | [DDD saniert Legacy Training](https://www.socreatory.com/de/events/ddd-legacy-sanierung-online-35ac86c95b3e) |
 | 2027-03-01 - ß3 | [iSAQB-Training Flexible Architekturen](https://www.socreatory.com/de/trainings/flex/events/2711755de345) in Hamburg | 
 | 2027-04-20 - 22 | [iSAQB-Training Flexible Architekturen](https://www.socreatory.com/de/trainings/flex/events/f0a28d4c4d01) online | 
 
