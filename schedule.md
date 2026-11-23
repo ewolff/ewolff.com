@@ -4,8 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-11-17 16:15 | [Humans and AI in the Feedback Loop of Software Development](https://www.software-architecture-gathering.com/session/humans-and-ai-in-the-feedback-loop-of-software-development/) at [iSAQB Software Architecture Gathering](https://www.software-architecture-gathering.com/)|
-| 2026-11-18 16:05 | [smash IT – pack your NERD survival kit](https://www.digitale-leute.de/summit/26/schedule/smash-it-pack-your-nerd-survival-kit/#start) at [Digitale Leute Summit](https://www.digitale-leute.de/summit/) with Johannes Mainusch |
 | 2026-11-23 18:00 | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://www.meetup.com/devtalk-tk/events/316564208/) at TK-Meetup |
 | 2026-12-01 13:00 | [DDD saniert Legacy Training](https://www.socreatory.com/de/trainings/ddd-legacy-sanierung/events/790b205bfc0a) |
 | 2026-12-08 9:00 | [KI statt Software-Architekt:in – wirklich?](https://www.ittage.informatik-aktuell.de/programm/2026/ki-statt-software-architektin-wirklich.html) at [IT Tage](https://www.ittage.informatik-aktuell.de/) |
