@@ -15,7 +15,7 @@ layout: de
 | 2027-02-23 13:00 | [DDD saniert Legacy Training](https://www.socreatory.com/de/events/ddd-legacy-sanierung-online-35ac86c95b3e) |
 | 2027-03-01 - ß3 | [iSAQB-Training Flexible Architekturen](https://www.socreatory.com/de/trainings/flex/events/2711755de345) in Hamburg | 
 | 2027-04-20 - 22 | [iSAQB-Training Flexible Architekturen](https://www.socreatory.com/de/trainings/flex/events/f0a28d4c4d01) online | 
-
+| 2027-06-28 - 30 | [iSAQB-Training Kollaborative Software-Modellierung](https://www.socreatory.com/de/events/cosmo-online-f05f7b579047) online | 
 
 Und natürlich [Software Architektur im
 Stream](https://software-architektur.tv/).
