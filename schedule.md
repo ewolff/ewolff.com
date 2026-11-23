@@ -4,8 +4,6 @@ title: Schedule
 
 |            Datum | Termin                                                                                                                                                                                        |
 |-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026-11-23 18:00 | [Menschen und KI im Feedback-Loop der Softwareentwicklung](https://www.meetup.com/devtalk-tk/events/316564208/) at TK-Meetup |
-| 2026-12-01 13:00 | [DDD saniert Legacy Training](https://www.socreatory.com/de/trainings/ddd-legacy-sanierung/events/790b205bfc0a) |
 | 2026-12-08 9:00 | [KI statt Software-Architekt:in – wirklich?](https://www.ittage.informatik-aktuell.de/programm/2026/ki-statt-software-architektin-wirklich.html) at [IT Tage](https://www.ittage.informatik-aktuell.de/) |
 | 2026-12-08 19:15 | [Prompt oder Praxis - Wer hat's gesagt? Das KI-Quiz zu Fragen rund um Software-Architektur](https://www.ittage.informatik-aktuell.de/programm/2026/prompt-oder-praxis-wer-hats-gesagt-das-ki-quiz-zu-fragen-rund-um-software-architektur.html) with Lisa Maria Schäfer and Ralf D. Müller at [IT Tage](https://www.ittage.informatik-aktuell.de/) |
 | 2026-12-09 10:00 | [Der richtige fachliche Schnitt: Wege zu besseren Architekturen](https://www.ittage.informatik-aktuell.de/programm/2026/der-richtige-fachliche-schnitt-wege-zu-besseren-architekturen.html) at [IT Tage](https://www.ittage.informatik-aktuell.de/) |
